@@ -1,0 +1,4 @@
+error: invalid value 'bogus' for '--output <OUTPUT_FORMAT>'
+  [possible values: human, json]
+
+For more information, try '--help'.

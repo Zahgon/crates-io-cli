@@ -1,0 +1,6 @@
+search crates interactively
+
+Usage: crates search
+
+Options:
+  -h, --help  Print help

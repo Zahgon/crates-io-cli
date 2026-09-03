@@ -1,0 +1,8 @@
+show all recently changed crates
+
+Usage: crates recent-changes [OPTIONS]
+
+Options:
+  -r, --repository <REPO>       Path to the possibly existing crates.io repository clone. If unset, it will be cloned to a temporary spot
+  -o, --output <OUTPUT_FORMAT>  The type of output to produce [default: human] [possible values: human, json]
+  -h, --help                    Print help (see more with '--help')

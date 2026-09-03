@@ -1,0 +1,11 @@
+list crates by a particular criterion
+
+Usage: crates list [OPTIONS] <COMMAND>
+
+Commands:
+  by-user  crates for the given user id
+  help     Print this message or the help of the given subcommand(s)
+
+Options:
+  -o, --output <OUTPUT_FORMAT>  The type of output to produce [default: human] [possible values: human, json]
+  -h, --help                    Print help

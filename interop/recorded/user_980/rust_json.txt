@@ -1,0 +1,5198 @@
+[
+  {
+    "description": "A tool to anonymise CSV files, providing various options to substitute real data with plausable fake data.",
+    "downloads": 8327,
+    "max_version": "1.0.4",
+    "name": "anon-csv-cli"
+  },
+  {
+    "description": "Make your crate lean by computing size-optimal include directives for Cargo manifests",
+    "downloads": 25834,
+    "max_version": "1.4.1",
+    "name": "cargo-diet"
+  },
+  {
+    "description": "Cargo subcommand for fearlessly releasing crates in workspaces.",
+    "downloads": 73333,
+    "max_version": "0.21.13",
+    "name": "cargo-smart-release"
+  },
+  {
+    "description": "Library for retrieving and interacting with the crates.io index",
+    "downloads": 8469604,
+    "max_version": "3.14.2",
+    "name": "crates-index"
+  },
+  {
+    "description": "Learn what's changed in the crates.io index",
+    "downloads": 143176,
+    "max_version": "31.0.1",
+    "name": "crates-index-diff"
+  },
+  {
+    "description": "Interact with crates.io from the command-line",
+    "downloads": 37135,
+    "max_version": "4.0.3",
+    "name": "crates-io-cli"
+  },
+  {
+    "description": "a platform for resumable mining of crates.io for knowledge and information",
+    "downloads": 13174,
+    "max_version": "0.4.1",
+    "name": "criner"
+  },
+  {
+    "description": "A command-line interface for the 'Criner' crates mining platform",
+    "downloads": 10953,
+    "max_version": "0.4.1",
+    "name": "criner-cli"
+  },
+  {
+    "description": "Determine include directives for Cargo.toml files to slim down a crate",
+    "downloads": 17482,
+    "max_version": "0.1.6",
+    "name": "criner-waste-report"
+  },
+  {
+    "description": "utilities for `crossterm`, without ties to `termion`",
+    "downloads": 2527154,
+    "max_version": "0.16.0",
+    "name": "crosstermion"
+  },
+  {
+    "description": "A tool to conveniently learn about the disk usage of directories, fast!",
+    "downloads": 249622,
+    "max_version": "2.44.0",
+    "name": "dua-cli"
+  },
+  {
+    "description": "Fast parallel filesystem traversal iterators",
+    "downloads": 13112,
+    "max_version": "3.3.1",
+    "name": "dua-core"
+  },
+  {
+    "description": "Various tools to be used in conjunction with the 'failure' crate.",
+    "downloads": 16327,
+    "max_version": "4.0.5",
+    "name": "failure-tools"
+  },
+  {
+    "description": "DEFLATE compression and decompression exposed as Read/BufRead/Write streams.\nSupports miniz_oxide and multiple zlib implementations. Supports zlib, gzip,\nand raw deflate streams.\n",
+    "downloads": 653223235,
+    "max_version": "1.1.10",
+    "name": "flate2"
+  },
+  {
+    "description": "Utilities to help working with the filesytem",
+    "downloads": 480802,
+    "max_version": "1.1.4",
+    "name": "fs-utils"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 491104,
+    "max_version": "0.17.2",
+    "name": "git-actor"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 200045,
+    "max_version": "0.8.3",
+    "name": "git-attributes"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 175601,
+    "max_version": "0.2.2",
+    "name": "git-bitmap"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 178204,
+    "max_version": "0.4.2",
+    "name": "git-chunk"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 139148,
+    "max_version": "0.2.4",
+    "name": "git-command"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 43321,
+    "max_version": "0.13.1",
+    "name": "git-commitgraph"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 535745,
+    "max_version": "0.16.2",
+    "name": "git-config"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 220823,
+    "max_version": "0.10.2",
+    "name": "git-config-value"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 162828,
+    "max_version": "0.9.2",
+    "name": "git-credentials"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 405352,
+    "max_version": "0.4.3",
+    "name": "git-date"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 279301,
+    "max_version": "0.26.2",
+    "name": "git-diff"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 213691,
+    "max_version": "0.13.1",
+    "name": "git-discover"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 625399,
+    "max_version": "0.26.5",
+    "name": "git-features"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2710,
+    "max_version": "0.1.0",
+    "name": "git-fetchhead"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2806,
+    "max_version": "0.1.0",
+    "name": "git-filter"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 383326,
+    "max_version": "0.5.4",
+    "name": "git-glob"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 726698,
+    "max_version": "0.10.3",
+    "name": "git-hash"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 81986,
+    "max_version": "0.1.2",
+    "name": "git-hashtable"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 223659,
+    "max_version": "0.12.4",
+    "name": "git-index"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 411576,
+    "max_version": "3.0.3",
+    "name": "git-lock"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 167853,
+    "max_version": "0.9.3",
+    "name": "git-mailmap"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2817,
+    "max_version": "0.1.0",
+    "name": "git-note"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 497279,
+    "max_version": "0.26.2",
+    "name": "git-object"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 313696,
+    "max_version": "0.41.0",
+    "name": "git-odb"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 281520,
+    "max_version": "0.31.0",
+    "name": "git-pack"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 141457,
+    "max_version": "0.14.3",
+    "name": "git-packetline"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 405807,
+    "max_version": "0.7.2",
+    "name": "git-path"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2822,
+    "max_version": "0.1.0",
+    "name": "git-pathspec"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 140119,
+    "max_version": "0.3.3",
+    "name": "git-prompt"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 165328,
+    "max_version": "0.26.4",
+    "name": "git-protocol"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 179099,
+    "max_version": "0.4.2",
+    "name": "git-quote"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2773,
+    "max_version": "0.1.0",
+    "name": "git-rebase"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 476294,
+    "max_version": "0.24.1",
+    "name": "git-ref"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 169247,
+    "max_version": "0.7.3",
+    "name": "git-refspec"
+  },
+  {
+    "description": "This crate is now named 'gix' and not available under this name anymore",
+    "downloads": 277083,
+    "max_version": "0.35.0",
+    "name": "git-repository"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 207166,
+    "max_version": "0.10.4",
+    "name": "git-revision"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 383594,
+    "max_version": "0.6.3",
+    "name": "git-sec"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2847,
+    "max_version": "0.1.0",
+    "name": "git-sequencer"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2837,
+    "max_version": "0.1.0",
+    "name": "git-submodule"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 440291,
+    "max_version": "3.0.3",
+    "name": "git-tempfile"
+  },
+  {
+    "description": "Shared code for gitoxide crates to facilitate testing",
+    "downloads": 30997,
+    "max_version": "0.10.0",
+    "name": "git-testtools"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2805,
+    "max_version": "0.1.0",
+    "name": "git-tix"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 166998,
+    "max_version": "0.25.5",
+    "name": "git-transport"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 279985,
+    "max_version": "0.22.2",
+    "name": "git-traverse"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 2978,
+    "max_version": "0.1.0",
+    "name": "git-tui"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 281091,
+    "max_version": "0.13.3",
+    "name": "git-url"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 508537,
+    "max_version": "0.7.3",
+    "name": "git-validate"
+  },
+  {
+    "description": "Please use `gix-<thiscrate>` instead ('git' -> 'gix')",
+    "downloads": 211308,
+    "max_version": "0.12.3",
+    "name": "git-worktree"
+  },
+  {
+    "description": "A tool to query direct (and indirect) stars of a GitHub user or organizations",
+    "downloads": 8606,
+    "max_version": "1.1.4",
+    "name": "github-star-counter"
+  },
+  {
+    "description": "A command-line application for interacting with git repositories",
+    "downloads": 110580,
+    "max_version": "0.58.0",
+    "name": "gitoxide"
+  },
+  {
+    "description": "The library implementing all capabilities of the gitoxide CLI",
+    "downloads": 120994,
+    "max_version": "0.61.1",
+    "name": "gitoxide-core"
+  },
+  {
+    "description": "Interact with git repositories just like git would",
+    "downloads": 44836549,
+    "max_version": "0.87.1",
+    "name": "gix"
+  },
+  {
+    "description": "A way to identify git actors",
+    "downloads": 51618239,
+    "max_version": "0.42.0",
+    "name": "gix-actor"
+  },
+  {
+    "description": "archive generation from of a worktree stream",
+    "downloads": 12233791,
+    "max_version": "0.36.1",
+    "name": "gix-archive"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing .gitattributes files",
+    "downloads": 43286337,
+    "max_version": "0.35.0",
+    "name": "gix-attributes"
+  },
+  {
+    "description": "A crate of the gitoxide project dedicated implementing the standard git bitmap format",
+    "downloads": 41445707,
+    "max_version": "0.4.0",
+    "name": "gix-bitmap"
+  },
+  {
+    "description": "A crate of the gitoxide project dedicated to implementing a 'blame' algorithm",
+    "downloads": 4867468,
+    "max_version": "0.17.1",
+    "name": "gix-blame"
+  },
+  {
+    "description": "Interact with the git chunk file format used in multi-pack index and commit-graph files",
+    "downloads": 42236754,
+    "max_version": "0.8.0",
+    "name": "gix-chunk"
+  },
+  {
+    "description": "A crate of the gitoxide project handling internal git command execution",
+    "downloads": 42309802,
+    "max_version": "0.10.1",
+    "name": "gix-command"
+  },
+  {
+    "description": "Read-only access to the git commitgraph file format",
+    "downloads": 45014603,
+    "max_version": "0.39.0",
+    "name": "gix-commitgraph"
+  },
+  {
+    "description": "A git-config file parser and editor from the gitoxide project",
+    "downloads": 50982933,
+    "max_version": "0.60.0",
+    "name": "gix-config"
+  },
+  {
+    "description": "A crate of the gitoxide project providing git-config value parsing",
+    "downloads": 50819096,
+    "max_version": "0.19.1",
+    "name": "gix-config-value"
+  },
+  {
+    "description": "A crate of the gitoxide project to interact with git credentials helpers",
+    "downloads": 33449610,
+    "max_version": "0.40.0",
+    "name": "gix-credentials"
+  },
+  {
+    "description": "A crate of the gitoxide project parsing dates the way git does",
+    "downloads": 51894011,
+    "max_version": "0.16.0",
+    "name": "gix-date"
+  },
+  {
+    "description": "Calculate differences between various git objects",
+    "downloads": 44903277,
+    "max_version": "0.67.1",
+    "name": "gix-diff"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with directory walks",
+    "downloads": 21800211,
+    "max_version": "0.29.1",
+    "name": "gix-dir"
+  },
+  {
+    "description": "Discover git repositories and check if a directory is a git repository",
+    "downloads": 45237726,
+    "max_version": "0.55.0",
+    "name": "gix-discover"
+  },
+  {
+    "description": "A crate of the gitoxide project to provide common errors and error-handling utilities",
+    "downloads": 11602710,
+    "max_version": "0.3.2",
+    "name": "gix-error"
+  },
+  {
+    "description": "A crate to integrate various capabilities using compile-time feature flags",
+    "downloads": 57486738,
+    "max_version": "0.49.1",
+    "name": "gix-features"
+  },
+  {
+    "description": "A crate of the gitoxide project to read and write .git/FETCH_HEAD",
+    "downloads": 6293,
+    "max_version": "0.0.0",
+    "name": "gix-fetchhead"
+  },
+  {
+    "description": "A crate of the gitoxide project implementing git filters",
+    "downloads": 39923001,
+    "max_version": "0.34.0",
+    "name": "gix-filter"
+  },
+  {
+    "description": "A crate providing file system specific utilities to `gitoxide`",
+    "downloads": 53689659,
+    "max_version": "0.22.1",
+    "name": "gix-fs"
+  },
+  {
+    "description": "Verifies the connectivity and validity of objects in the database",
+    "downloads": 47119,
+    "max_version": "0.25.1",
+    "name": "gix-fsck"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with pattern matching",
+    "downloads": 51753325,
+    "max_version": "0.27.1",
+    "name": "gix-glob"
+  },
+  {
+    "description": "Borrowed and owned git hash digests used to identify git objects",
+    "downloads": 55181969,
+    "max_version": "0.26.2",
+    "name": "gix-hash"
+  },
+  {
+    "description": "A crate that provides hashtable based data structures optimized to utilize ObjectId keys",
+    "downloads": 47734993,
+    "max_version": "0.16.0",
+    "name": "gix-hashtable"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing .gitignore files",
+    "downloads": 41640929,
+    "max_version": "0.22.1",
+    "name": "gix-ignore"
+  },
+  {
+    "description": "A high performance library for computing diffs, maintained as a modified copy of upstream imara-diff for gitoxide.",
+    "downloads": 2393099,
+    "max_version": "0.2.5",
+    "name": "gix-imara-diff"
+  },
+  {
+    "description": "A work-in-progress crate of the gitoxide project dedicated implementing the git index file",
+    "downloads": 44579085,
+    "max_version": "0.55.0",
+    "name": "gix-index"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with handling git large file support",
+    "downloads": 6349,
+    "max_version": "0.0.0",
+    "name": "gix-lfs"
+  },
+  {
+    "description": "A git-style lock-file implementation",
+    "downloads": 51496598,
+    "max_version": "24.0.0",
+    "name": "gix-lock"
+  },
+  {
+    "description": "Proc-macro utilities for gix",
+    "downloads": 6850381,
+    "max_version": "0.1.6",
+    "name": "gix-macros"
+  },
+  {
+    "description": "A crate of the gitoxide project for parsing mailmap files",
+    "downloads": 11862738,
+    "max_version": "0.34.1",
+    "name": "gix-mailmap"
+  },
+  {
+    "description": "A crate of the gitoxide project implementing merge algorithms",
+    "downloads": 2684016,
+    "max_version": "0.20.1",
+    "name": "gix-merge"
+  },
+  {
+    "description": "A crate of the gitoxide project implementing negotiation algorithms",
+    "downloads": 34311930,
+    "max_version": "0.35.1",
+    "name": "gix-negotiate"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with git notes",
+    "downloads": 50381,
+    "max_version": "0.1.1",
+    "name": "gix-note"
+  },
+  {
+    "description": "Immutable and mutable git objects with decoding and encoding support",
+    "downloads": 52547277,
+    "max_version": "0.64.1",
+    "name": "gix-object"
+  },
+  {
+    "description": "Implements various git object databases",
+    "downloads": 44818524,
+    "max_version": "0.84.0",
+    "name": "gix-odb"
+  },
+  {
+    "description": "Implements git packs and related data structures",
+    "downloads": 44900314,
+    "max_version": "0.74.2",
+    "name": "gix-pack"
+  },
+  {
+    "description": "A crate of the gitoxide project implementing the pkt-line serialization format",
+    "downloads": 41292645,
+    "max_version": "0.22.2",
+    "name": "gix-packetline"
+  },
+  {
+    "description": "A duplicate of `gix-packetline` with the `blocking-io` feature pre-selected",
+    "downloads": 24603091,
+    "max_version": "0.19.3",
+    "name": "gix-packetline-blocking"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing paths and their conversions",
+    "downloads": 50711318,
+    "max_version": "0.12.6",
+    "name": "gix-path"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing magical pathspecs",
+    "downloads": 39874035,
+    "max_version": "0.20.0",
+    "name": "gix-pathspec"
+  },
+  {
+    "description": "A crate of the gitoxide project for handling prompts in the terminal",
+    "downloads": 33539749,
+    "max_version": "0.17.0",
+    "name": "gix-prompt"
+  },
+  {
+    "description": "A crate of the gitoxide project for implementing git protocols",
+    "downloads": 41401881,
+    "max_version": "0.65.1",
+    "name": "gix-protocol"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with various quotations used by git",
+    "downloads": 44533768,
+    "max_version": "0.8.0",
+    "name": "gix-quote"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing rebases",
+    "downloads": 6387,
+    "max_version": "0.0.0",
+    "name": "gix-rebase"
+  },
+  {
+    "description": "A crate to handle git references",
+    "downloads": 51506663,
+    "max_version": "0.67.1",
+    "name": "gix-ref"
+  },
+  {
+    "description": "A crate of the gitoxide project for parsing and representing refspecs",
+    "downloads": 45362436,
+    "max_version": "0.45.1",
+    "name": "gix-refspec"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with finding names for revisions and parsing specifications",
+    "downloads": 45425722,
+    "max_version": "0.49.1",
+    "name": "gix-revision"
+  },
+  {
+    "description": "A crate providing utilities for walking the revision graph",
+    "downloads": 45213909,
+    "max_version": "0.35.0",
+    "name": "gix-revwalk"
+  },
+  {
+    "description": "A crate of the gitoxide project providing a shared trust model",
+    "downloads": 50074897,
+    "max_version": "0.14.2",
+    "name": "gix-sec"
+  },
+  {
+    "description": "A crate of the gitoxide project handling sequences of human-aided operations",
+    "downloads": 6378,
+    "max_version": "0.0.0",
+    "name": "gix-sequencer"
+  },
+  {
+    "description": "Handle files specifying the shallow boundary",
+    "downloads": 33845361,
+    "max_version": "0.13.0",
+    "name": "gix-shallow"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing with 'git status'-like functionality",
+    "downloads": 18172142,
+    "max_version": "0.34.1",
+    "name": "gix-status"
+  },
+  {
+    "description": "A crate of the gitoxide project dealing git submodules",
+    "downloads": 39985356,
+    "max_version": "0.34.0",
+    "name": "gix-submodule"
+  },
+  {
+    "description": "A tempfile implementation with a global registry to assure cleanup",
+    "downloads": 52257936,
+    "max_version": "24.0.0",
+    "name": "gix-tempfile"
+  },
+  {
+    "description": "Shared code for gitoxide crates to facilitate testing",
+    "downloads": 360805,
+    "max_version": "0.20.0",
+    "name": "gix-testtools"
+  },
+  {
+    "description": "A tool like `tig`, but minimal, fast and efficient",
+    "downloads": 6913,
+    "max_version": "0.3.0",
+    "name": "gix-tix"
+  },
+  {
+    "description": "A crate to provide minimal `tracing` support that can be turned off to zero cost",
+    "downloads": 47507906,
+    "max_version": "0.1.21",
+    "name": "gix-trace"
+  },
+  {
+    "description": "A crate of the gitoxide project dedicated to implementing the git transport layer",
+    "downloads": 41477680,
+    "max_version": "0.59.2",
+    "name": "gix-transport"
+  },
+  {
+    "description": "A crate of the gitoxide project",
+    "downloads": 45552598,
+    "max_version": "0.61.0",
+    "name": "gix-traverse"
+  },
+  {
+    "description": "A crate of the gitoxide project implementing parsing and serialization of gix-url",
+    "downloads": 46746612,
+    "max_version": "0.38.0",
+    "name": "gix-url"
+  },
+  {
+    "description": "A crate with `gitoxide` utilities that don't need feature toggles",
+    "downloads": 51662219,
+    "max_version": "0.3.6",
+    "name": "gix-utils"
+  },
+  {
+    "description": "Validation functions for various kinds of names in git",
+    "downloads": 58107425,
+    "max_version": "0.11.4",
+    "name": "gix-validate"
+  },
+  {
+    "description": "A crate of the gitoxide project for shared worktree related types and utilities.",
+    "downloads": 41879038,
+    "max_version": "0.56.0",
+    "name": "gix-worktree"
+  },
+  {
+    "description": "A crate of the gitoxide project implementing setting the worktree to a particular state",
+    "downloads": 23875842,
+    "max_version": "0.34.1",
+    "name": "gix-worktree-state"
+  },
+  {
+    "description": "generate a byte-stream from a git-tree",
+    "downloads": 16223859,
+    "max_version": "0.36.1",
+    "name": "gix-worktree-stream"
+  },
+  {
+    "description": "Zlib-rs streaming compression and decompression utilities used by gitoxide",
+    "downloads": 362186,
+    "max_version": "0.1.0",
+    "name": "gix-zlib"
+  },
+  {
+    "description": "A complete library to interact with Abusive Experience Report (protocol v1)",
+    "downloads": 30555,
+    "max_version": "7.0.0+20251222",
+    "name": "google-abusiveexperiencereport1"
+  },
+  {
+    "description": "A complete library to interact with Abusive Experience Report (protocol v1)",
+    "downloads": 18903,
+    "max_version": "7.0.0+20251222",
+    "name": "google-abusiveexperiencereport1-cli"
+  },
+  {
+    "description": "A complete library to interact with Acceleratedmobilepageurl (protocol v1)",
+    "downloads": 28422,
+    "max_version": "7.0.0+20251215",
+    "name": "google-acceleratedmobilepageurl1"
+  },
+  {
+    "description": "A complete library to interact with Acceleratedmobilepageurl (protocol v1)",
+    "downloads": 18676,
+    "max_version": "7.0.0+20251215",
+    "name": "google-acceleratedmobilepageurl1-cli"
+  },
+  {
+    "description": "A complete library to interact with Access Approval (protocol v1)",
+    "downloads": 18776,
+    "max_version": "7.0.0+20251205",
+    "name": "google-accessapproval1"
+  },
+  {
+    "description": "A complete library to interact with Access Approval (protocol v1)",
+    "downloads": 9118,
+    "max_version": "7.0.0+20251205",
+    "name": "google-accessapproval1-cli"
+  },
+  {
+    "description": "A complete library to interact with Access Approval (protocol v1beta1)",
+    "downloads": 23973,
+    "max_version": "7.0.0+20200708",
+    "name": "google-accessapproval1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Access Approval (protocol v1beta1)",
+    "downloads": 15747,
+    "max_version": "7.0.0+20200708",
+    "name": "google-accessapproval1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Access Context Manager (protocol v1)",
+    "downloads": 24214,
+    "max_version": "7.0.0+20251211",
+    "name": "google-accesscontextmanager1"
+  },
+  {
+    "description": "A complete library to interact with Access Context Manager (protocol v1)",
+    "downloads": 14651,
+    "max_version": "7.0.0+20251211",
+    "name": "google-accesscontextmanager1-cli"
+  },
+  {
+    "description": "A complete library to interact with Access Context Manager (protocol v1beta)",
+    "downloads": 27156,
+    "max_version": "7.0.0+20230123",
+    "name": "google-accesscontextmanager1_beta"
+  },
+  {
+    "description": "A complete library to interact with Access Context Manager (protocol v1beta)",
+    "downloads": 15817,
+    "max_version": "7.0.0+20230123",
+    "name": "google-accesscontextmanager1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Ad Exchange Buyer (protocol v1.3)",
+    "downloads": 74855,
+    "max_version": "7.0.0+20210330",
+    "name": "google-adexchangebuyer1d3"
+  },
+  {
+    "description": "A complete library to interact with Ad Exchange Buyer (protocol v1.3)",
+    "downloads": 34062,
+    "max_version": "7.0.0+20210330",
+    "name": "google-adexchangebuyer1d3-cli"
+  },
+  {
+    "description": "A complete library to interact with Ad Exchange Buyer (protocol v1.4)",
+    "downloads": 56344,
+    "max_version": "7.0.0+20210330",
+    "name": "google-adexchangebuyer1d4"
+  },
+  {
+    "description": "A complete library to interact with Ad Exchange Buyer (protocol v1.4)",
+    "downloads": 31179,
+    "max_version": "7.0.0+20210330",
+    "name": "google-adexchangebuyer1d4-cli"
+  },
+  {
+    "description": "A complete library to interact with AdExchangeBuyerII (protocol v2beta1)",
+    "downloads": 29051,
+    "max_version": "7.0.0+20251211",
+    "name": "google-adexchangebuyer2_v2_beta1"
+  },
+  {
+    "description": "A complete library to interact with AdExchangeBuyerII (protocol v2beta1)",
+    "downloads": 16640,
+    "max_version": "7.0.0+20251211",
+    "name": "google-adexchangebuyer2_v2_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Ad Exchange Seller (protocol v2.0)",
+    "downloads": 70219,
+    "max_version": "7.0.0+20171101",
+    "name": "google-adexchangeseller2"
+  },
+  {
+    "description": "A complete library to interact with Ad Exchange Seller (protocol v2.0)",
+    "downloads": 31396,
+    "max_version": "7.0.0+20171101",
+    "name": "google-adexchangeseller2-cli"
+  },
+  {
+    "description": "A complete library to interact with Ad Experience Report (protocol v1)",
+    "downloads": 31926,
+    "max_version": "7.0.0+20251222",
+    "name": "google-adexperiencereport1"
+  },
+  {
+    "description": "A complete library to interact with Ad Experience Report (protocol v1)",
+    "downloads": 18852,
+    "max_version": "7.0.0+20251222",
+    "name": "google-adexperiencereport1-cli"
+  },
+  {
+    "description": "A complete library to interact with directory (protocol directory_v1)",
+    "downloads": 60126,
+    "max_version": "1.0.13+20200204",
+    "name": "google-admin1_directory"
+  },
+  {
+    "description": "A complete library to interact with directory (protocol directory_v1)",
+    "downloads": 23434,
+    "max_version": "1.0.13+20200204",
+    "name": "google-admin1_directory-cli"
+  },
+  {
+    "description": "A complete library to interact with reports (protocol reports_v1)",
+    "downloads": 58332,
+    "max_version": "1.0.12+20190521",
+    "name": "google-admin1_reports"
+  },
+  {
+    "description": "A complete library to interact with reports (protocol reports_v1)",
+    "downloads": 24082,
+    "max_version": "1.0.12+20190521",
+    "name": "google-admin1_reports-cli"
+  },
+  {
+    "description": "A complete library to interact with admin (protocol email_migration_v2)",
+    "downloads": 23124,
+    "max_version": "0.1.11+20150303",
+    "name": "google-admin2_email_migration"
+  },
+  {
+    "description": "A complete library to interact with AdMob (protocol v1)",
+    "downloads": 18750,
+    "max_version": "7.0.0+20251204",
+    "name": "google-admob1"
+  },
+  {
+    "description": "A complete library to interact with AdMob (protocol v1)",
+    "downloads": 9080,
+    "max_version": "7.0.0+20251204",
+    "name": "google-admob1-cli"
+  },
+  {
+    "description": "A complete library to interact with AdSense (protocol v1.4)",
+    "downloads": 76920,
+    "max_version": "7.0.0+20201002",
+    "name": "google-adsense1d4"
+  },
+  {
+    "description": "A complete library to interact with AdSense (protocol v1.4)",
+    "downloads": 35498,
+    "max_version": "7.0.0+20201002",
+    "name": "google-adsense1d4-cli"
+  },
+  {
+    "description": "A complete library to interact with adsense (protocol v2)",
+    "downloads": 12304,
+    "max_version": "7.0.0+20251210",
+    "name": "google-adsense2"
+  },
+  {
+    "description": "A complete library to interact with adsense (protocol v2)",
+    "downloads": 5304,
+    "max_version": "7.0.0+20251210",
+    "name": "google-adsense2-cli"
+  },
+  {
+    "description": "A complete library to interact with AdSense Host (protocol v4.1)",
+    "downloads": 76542,
+    "max_version": "7.0.0+20200930",
+    "name": "google-adsensehost4d1"
+  },
+  {
+    "description": "A complete library to interact with AdSense Host (protocol v4.1)",
+    "downloads": 36736,
+    "max_version": "7.0.0+20200930",
+    "name": "google-adsensehost4d1-cli"
+  },
+  {
+    "description": "A complete library to interact with Aiplatform (protocol v1)",
+    "downloads": 2320,
+    "max_version": "6.0.0+20240715",
+    "name": "google-aiplatform1"
+  },
+  {
+    "description": "A complete library to interact with Aiplatform (protocol v1beta1)",
+    "downloads": 2452,
+    "max_version": "6.0.0+20240715",
+    "name": "google-aiplatform1_beta1"
+  },
+  {
+    "description": "A complete library to interact with AlertCenter (protocol v1beta1)",
+    "downloads": 26910,
+    "max_version": "7.0.0+20251215",
+    "name": "google-alertcenter1_beta1"
+  },
+  {
+    "description": "A complete library to interact with AlertCenter (protocol v1beta1)",
+    "downloads": 17114,
+    "max_version": "7.0.0+20251215",
+    "name": "google-alertcenter1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with analytics (protocol v3)",
+    "downloads": 76281,
+    "max_version": "7.0.0+20190807",
+    "name": "google-analytics3"
+  },
+  {
+    "description": "A complete library to interact with analytics (protocol v3)",
+    "downloads": 34826,
+    "max_version": "7.0.0+20190807",
+    "name": "google-analytics3-cli"
+  },
+  {
+    "description": "A complete library to interact with Google Analytics Admin (protocol v1alpha)",
+    "downloads": 14351,
+    "max_version": "5.0.3+20220307",
+    "name": "google-analyticsadmin1_alpha"
+  },
+  {
+    "description": "A complete library to interact with Google Analytics Admin (protocol v1alpha)",
+    "downloads": 5705,
+    "max_version": "3.1.0+20220307",
+    "name": "google-analyticsadmin1_alpha-cli"
+  },
+  {
+    "description": "A complete library to interact with AnalyticsData (protocol v1beta)",
+    "downloads": 29486,
+    "max_version": "7.0.0+20251210",
+    "name": "google-analyticsdata1_beta"
+  },
+  {
+    "description": "A complete library to interact with AnalyticsData (protocol v1beta)",
+    "downloads": 7748,
+    "max_version": "7.0.0+20251210",
+    "name": "google-analyticsdata1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with AnalyticsReporting (protocol v4)",
+    "downloads": 29211,
+    "max_version": "7.0.0+20240123",
+    "name": "google-analyticsreporting4"
+  },
+  {
+    "description": "A complete library to interact with AnalyticsReporting (protocol v4)",
+    "downloads": 17830,
+    "max_version": "7.0.0+20240123",
+    "name": "google-analyticsreporting4-cli"
+  },
+  {
+    "description": "A complete library to interact with Android Provisioning Partner (protocol v1)",
+    "downloads": 31492,
+    "max_version": "7.0.0+20251217",
+    "name": "google-androiddeviceprovisioning1"
+  },
+  {
+    "description": "A complete library to interact with Android Provisioning Partner (protocol v1)",
+    "downloads": 18094,
+    "max_version": "7.0.0+20251217",
+    "name": "google-androiddeviceprovisioning1-cli"
+  },
+  {
+    "description": "A complete library to interact with Android Enterprise (protocol v1)",
+    "downloads": 75907,
+    "max_version": "7.0.0+20251211",
+    "name": "google-androidenterprise1"
+  },
+  {
+    "description": "A complete library to interact with Android Enterprise (protocol v1)",
+    "downloads": 30706,
+    "max_version": "7.0.0+20251211",
+    "name": "google-androidenterprise1-cli"
+  },
+  {
+    "description": "A complete library to interact with Android Management (protocol v1)",
+    "downloads": 44148,
+    "max_version": "7.0.0+20251216",
+    "name": "google-androidmanagement1"
+  },
+  {
+    "description": "A complete library to interact with Android Management (protocol v1)",
+    "downloads": 20212,
+    "max_version": "7.0.0+20251216",
+    "name": "google-androidmanagement1-cli"
+  },
+  {
+    "description": "A complete library to interact with Android Publisher (protocol v2)",
+    "downloads": 75809,
+    "max_version": "7.0.0+20200331",
+    "name": "google-androidpublisher2"
+  },
+  {
+    "description": "A complete library to interact with Android Publisher (protocol v2)",
+    "downloads": 33029,
+    "max_version": "7.0.0+20200331",
+    "name": "google-androidpublisher2-cli"
+  },
+  {
+    "description": "A complete library to interact with Android Publisher (protocol v3)",
+    "downloads": 1178180,
+    "max_version": "7.0.0+20251216",
+    "name": "google-androidpublisher3"
+  },
+  {
+    "description": "A complete library to interact with Android Publisher (protocol v3)",
+    "downloads": 13727,
+    "max_version": "7.0.0+20251216",
+    "name": "google-androidpublisher3-cli"
+  },
+  {
+    "description": "A complete library to interact with apigateway (protocol v1)",
+    "downloads": 17858,
+    "max_version": "7.0.0+20251210",
+    "name": "google-apigateway1"
+  },
+  {
+    "description": "A complete library to interact with apigateway (protocol v1)",
+    "downloads": 7952,
+    "max_version": "7.0.0+20251210",
+    "name": "google-apigateway1-cli"
+  },
+  {
+    "description": "A complete library to interact with Apigee (protocol v1)",
+    "downloads": 19166,
+    "max_version": "7.0.0+20251216",
+    "name": "google-apigee1"
+  },
+  {
+    "description": "A complete library to interact with Apigee (protocol v1)",
+    "downloads": 10446,
+    "max_version": "7.0.0+20251216",
+    "name": "google-apigee1-cli"
+  },
+  {
+    "description": "A complete library to interact with Api Keys Service (protocol v2)",
+    "downloads": 12633,
+    "max_version": "7.0.0+20251202",
+    "name": "google-apikeys2"
+  },
+  {
+    "description": "A complete library to interact with Api Keys Service (protocol v2)",
+    "downloads": 5348,
+    "max_version": "7.0.0+20251202",
+    "name": "google-apikeys2-cli"
+  },
+  {
+    "description": "Shared functionality among the google-api crates.",
+    "downloads": 9699244,
+    "max_version": "8.0.0",
+    "name": "google-apis-common"
+  },
+  {
+    "description": "A complete library to interact with appengine (protocol v1)",
+    "downloads": 50030,
+    "max_version": "7.0.0+20251210",
+    "name": "google-appengine1"
+  },
+  {
+    "description": "A complete library to interact with appengine (protocol v1)",
+    "downloads": 33448,
+    "max_version": "7.0.0+20251210",
+    "name": "google-appengine1-cli"
+  },
+  {
+    "description": "A complete library to interact with appengine (protocol v1beta4)",
+    "downloads": 58474,
+    "max_version": "7.0.0+20181005",
+    "name": "google-appengine1_beta4"
+  },
+  {
+    "description": "A complete library to interact with appengine (protocol v1beta4)",
+    "downloads": 34845,
+    "max_version": "7.0.0+20181005",
+    "name": "google-appengine1_beta4-cli"
+  },
+  {
+    "description": "A complete library to interact with appengine (protocol v1beta5)",
+    "downloads": 55187,
+    "max_version": "7.0.0+20181005",
+    "name": "google-appengine1_beta5"
+  },
+  {
+    "description": "A complete library to interact with appengine (protocol v1beta5)",
+    "downloads": 33812,
+    "max_version": "7.0.0+20181005",
+    "name": "google-appengine1_beta5-cli"
+  },
+  {
+    "description": "A complete library to interact with appsactivity (protocol v1)",
+    "downloads": 76577,
+    "max_version": "7.0.0+20200628",
+    "name": "google-appsactivity1"
+  },
+  {
+    "description": "A complete library to interact with appsactivity (protocol v1)",
+    "downloads": 35439,
+    "max_version": "7.0.0+20200628",
+    "name": "google-appsactivity1-cli"
+  },
+  {
+    "description": "A complete library to interact with App State (protocol v1)",
+    "downloads": 78953,
+    "max_version": "7.0.0+20190627",
+    "name": "google-appstate1"
+  },
+  {
+    "description": "A complete library to interact with App State (protocol v1)",
+    "downloads": 36434,
+    "max_version": "7.0.0+20190627",
+    "name": "google-appstate1-cli"
+  },
+  {
+    "description": "A complete library to interact with Area120 Tables (protocol v1alpha1)",
+    "downloads": 17409,
+    "max_version": "7.0.0+20251222",
+    "name": "google-area120tables1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with Area120 Tables (protocol v1alpha1)",
+    "downloads": 9070,
+    "max_version": "7.0.0+20251222",
+    "name": "google-area120tables1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with Artifact Registry (protocol v1)",
+    "downloads": 17645,
+    "max_version": "7.0.0+20251209",
+    "name": "google-artifactregistry1"
+  },
+  {
+    "description": "A complete library to interact with Artifact Registry (protocol v1)",
+    "downloads": 9178,
+    "max_version": "7.0.0+20251209",
+    "name": "google-artifactregistry1-cli"
+  },
+  {
+    "description": "A complete library to interact with Artifact Registry (protocol v1beta1)",
+    "downloads": 19040,
+    "max_version": "7.0.0+20251209",
+    "name": "google-artifactregistry1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Artifact Registry (protocol v1beta1)",
+    "downloads": 10601,
+    "max_version": "7.0.0+20251209",
+    "name": "google-artifactregistry1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Assuredworkloads (protocol v1)",
+    "downloads": 17841,
+    "max_version": "7.0.0+20251211",
+    "name": "google-assuredworkloads1"
+  },
+  {
+    "description": "A complete library to interact with Assuredworkloads (protocol v1)",
+    "downloads": 9128,
+    "max_version": "7.0.0+20251211",
+    "name": "google-assuredworkloads1-cli"
+  },
+  {
+    "description": "A complete library to interact with audit (protocol v1)",
+    "downloads": 22410,
+    "max_version": "0.1.11+20150419",
+    "name": "google-audit1"
+  },
+  {
+    "description": "A complete library to interact with Authorized Buyers Marketplace (protocol v1)",
+    "downloads": 12441,
+    "max_version": "7.0.0+20251211",
+    "name": "google-authorizedbuyersmarketplace1"
+  },
+  {
+    "description": "A complete library to interact with Authorized Buyers Marketplace (protocol v1)",
+    "downloads": 5322,
+    "max_version": "7.0.0+20251211",
+    "name": "google-authorizedbuyersmarketplace1-cli"
+  },
+  {
+    "description": "A complete library to interact with autoscaler (protocol v1beta2)",
+    "downloads": 66668,
+    "max_version": "7.0.0+20150629",
+    "name": "google-autoscaler1_beta2"
+  },
+  {
+    "description": "A complete library to interact with autoscaler (protocol v1beta2)",
+    "downloads": 30173,
+    "max_version": "7.0.0+20150629",
+    "name": "google-autoscaler1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with baremetalsolution (protocol v2)",
+    "downloads": 12541,
+    "max_version": "7.0.0+20251008",
+    "name": "google-baremetalsolution2"
+  },
+  {
+    "description": "A complete library to interact with baremetalsolution (protocol v2)",
+    "downloads": 5494,
+    "max_version": "7.0.0+20251008",
+    "name": "google-baremetalsolution2-cli"
+  },
+  {
+    "description": "A complete library to interact with Bigquery (protocol v2)",
+    "downloads": 144150,
+    "max_version": "7.0.0+20251130",
+    "name": "google-bigquery2"
+  },
+  {
+    "description": "A complete library to interact with Bigquery (protocol v2)",
+    "downloads": 29985,
+    "max_version": "7.0.0+20251130",
+    "name": "google-bigquery2-cli"
+  },
+  {
+    "description": "A complete library to interact with BigQuery Connection Service (protocol v1beta1)",
+    "downloads": 18758,
+    "max_version": "7.0.0+20251130",
+    "name": "google-bigqueryconnection1_beta1"
+  },
+  {
+    "description": "A complete library to interact with BigQuery Connection Service (protocol v1beta1)",
+    "downloads": 9261,
+    "max_version": "7.0.0+20251130",
+    "name": "google-bigqueryconnection1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with BigQuery Data Transfer (protocol v1)",
+    "downloads": 32661,
+    "max_version": "7.0.0+20251213",
+    "name": "google-bigquerydatatransfer1"
+  },
+  {
+    "description": "A complete library to interact with BigQuery Data Transfer (protocol v1)",
+    "downloads": 19162,
+    "max_version": "7.0.0+20251213",
+    "name": "google-bigquerydatatransfer1-cli"
+  },
+  {
+    "description": "A complete library to interact with BigQuery Reservation (protocol v1)",
+    "downloads": 18953,
+    "max_version": "7.0.0+20251207",
+    "name": "google-bigqueryreservation1"
+  },
+  {
+    "description": "A complete library to interact with BigQuery Reservation (protocol v1)",
+    "downloads": 9017,
+    "max_version": "7.0.0+20251207",
+    "name": "google-bigqueryreservation1-cli"
+  },
+  {
+    "description": "A complete library to interact with Bigtable Admin (protocol v2)",
+    "downloads": 46306,
+    "max_version": "5.0.4+20240221",
+    "name": "google-bigtableadmin2"
+  },
+  {
+    "description": "A complete library to interact with Bigtable Admin (protocol v2)",
+    "downloads": 13846,
+    "max_version": "5.0.4+20240221",
+    "name": "google-bigtableadmin2-cli"
+  },
+  {
+    "description": "A complete library to interact with CloudBillingBudget (protocol v1)",
+    "downloads": 17559,
+    "max_version": "7.0.0+20251214",
+    "name": "google-billingbudgets1"
+  },
+  {
+    "description": "A complete library to interact with CloudBillingBudget (protocol v1)",
+    "downloads": 7894,
+    "max_version": "7.0.0+20251214",
+    "name": "google-billingbudgets1-cli"
+  },
+  {
+    "description": "A complete library to interact with CloudBillingBudget (protocol v1beta1)",
+    "downloads": 18925,
+    "max_version": "7.0.0+20251214",
+    "name": "google-billingbudgets1_beta1"
+  },
+  {
+    "description": "A complete library to interact with CloudBillingBudget (protocol v1beta1)",
+    "downloads": 9096,
+    "max_version": "7.0.0+20251214",
+    "name": "google-billingbudgets1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Binary Authorization (protocol v1)",
+    "downloads": 15838,
+    "max_version": "5.0.3+20230113",
+    "name": "google-binaryauthorization1"
+  },
+  {
+    "description": "A complete library to interact with Binary Authorization (protocol v1)",
+    "downloads": 7028,
+    "max_version": "3.1.0+20220225",
+    "name": "google-binaryauthorization1-cli"
+  },
+  {
+    "description": "A complete library to interact with Binary Authorization (protocol v1beta1)",
+    "downloads": 24158,
+    "max_version": "5.0.3+20230113",
+    "name": "google-binaryauthorization1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Binary Authorization (protocol v1beta1)",
+    "downloads": 12686,
+    "max_version": "3.1.0+20220225",
+    "name": "google-binaryauthorization1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Blogger (protocol v3)",
+    "downloads": 64063,
+    "max_version": "7.0.0+20251215",
+    "name": "google-blogger3"
+  },
+  {
+    "description": "A complete library to interact with Blogger (protocol v3)",
+    "downloads": 29747,
+    "max_version": "7.0.0+20251215",
+    "name": "google-blogger3-cli"
+  },
+  {
+    "description": "A complete library to interact with books (protocol v1)",
+    "downloads": 74416,
+    "max_version": "7.0.0+20251209",
+    "name": "google-books1"
+  },
+  {
+    "description": "A complete library to interact with books (protocol v1)",
+    "downloads": 32205,
+    "max_version": "7.0.0+20251209",
+    "name": "google-books1-cli"
+  },
+  {
+    "description": "A complete library to interact with calendar (protocol v3)",
+    "downloads": 174982,
+    "max_version": "7.0.0+20251214",
+    "name": "google-calendar3"
+  },
+  {
+    "description": "A complete library to interact with calendar (protocol v3)",
+    "downloads": 35088,
+    "max_version": "7.0.0+20251214",
+    "name": "google-calendar3-cli"
+  },
+  {
+    "description": "A complete library to interact with Certificate Manager (protocol v1)",
+    "downloads": 12403,
+    "max_version": "7.0.0+20251204",
+    "name": "google-certificatemanager1"
+  },
+  {
+    "description": "A complete library to interact with Certificate Manager (protocol v1)",
+    "downloads": 5384,
+    "max_version": "7.0.0+20251204",
+    "name": "google-certificatemanager1-cli"
+  },
+  {
+    "description": "A complete library to interact with Hangouts Chat (protocol v1)",
+    "downloads": 16569,
+    "max_version": "2.0.8+20210324",
+    "name": "google-chat1"
+  },
+  {
+    "description": "A complete library to interact with Hangouts Chat (protocol v1)",
+    "downloads": 11563,
+    "max_version": "2.0.4+20210324",
+    "name": "google-chat1-cli"
+  },
+  {
+    "description": "A complete library to interact with Chrome Management (protocol v1)",
+    "downloads": 17606,
+    "max_version": "7.0.0+20251217",
+    "name": "google-chromemanagement1"
+  },
+  {
+    "description": "A complete library to interact with Chrome Management (protocol v1)",
+    "downloads": 7879,
+    "max_version": "7.0.0+20251217",
+    "name": "google-chromemanagement1-cli"
+  },
+  {
+    "description": "A complete library to interact with Chrome Policy (protocol v1)",
+    "downloads": 17519,
+    "max_version": "7.0.0+20251217",
+    "name": "google-chromepolicy1"
+  },
+  {
+    "description": "A complete library to interact with Chrome Policy (protocol v1)",
+    "downloads": 7896,
+    "max_version": "7.0.0+20251217",
+    "name": "google-chromepolicy1-cli"
+  },
+  {
+    "description": "A complete library to interact with Chrome UX Report (protocol v1)",
+    "downloads": 19374,
+    "max_version": "7.0.0+20251229",
+    "name": "google-chromeuxreport1"
+  },
+  {
+    "description": "A complete library to interact with Chrome UX Report (protocol v1)",
+    "downloads": 9250,
+    "max_version": "7.0.0+20251229",
+    "name": "google-chromeuxreport1-cli"
+  },
+  {
+    "description": "A complete library to interact with Civic Info (protocol v2)",
+    "downloads": 29328,
+    "max_version": "1.0.0+20160823",
+    "name": "google-civicinfo2"
+  },
+  {
+    "description": "A complete library to interact with Civic Info (protocol v2)",
+    "downloads": 4011,
+    "max_version": "1.0.0+20160823",
+    "name": "google-civicinfo2-cli"
+  },
+  {
+    "description": "A complete library to interact with classroom (protocol v1)",
+    "downloads": 61951,
+    "max_version": "7.0.0+20251217",
+    "name": "google-classroom1"
+  },
+  {
+    "description": "A complete library to interact with classroom (protocol v1)",
+    "downloads": 30823,
+    "max_version": "7.0.0+20251217",
+    "name": "google-classroom1-cli"
+  },
+  {
+    "description": "Shared functionality among the google-api CLI crates.",
+    "downloads": 33093,
+    "max_version": "8.0.0",
+    "name": "google-clis-common"
+  },
+  {
+    "description": "A complete library to interact with Cloud Asset (protocol v1)",
+    "downloads": 24957,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudasset1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Asset (protocol v1)",
+    "downloads": 12619,
+    "max_version": "3.1.0+20220225",
+    "name": "google-cloudasset1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Asset (protocol v1beta1)",
+    "downloads": 27297,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudasset1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Asset (protocol v1beta1)",
+    "downloads": 16179,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudasset1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloudbilling (protocol v1)",
+    "downloads": 59535,
+    "max_version": "7.0.0+20251203",
+    "name": "google-cloudbilling1"
+  },
+  {
+    "description": "A complete library to interact with Cloudbilling (protocol v1)",
+    "downloads": 31392,
+    "max_version": "7.0.0+20251203",
+    "name": "google-cloudbilling1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Build (protocol v1)",
+    "downloads": 32642,
+    "max_version": "7.0.0+20251209",
+    "name": "google-cloudbuild1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Build (protocol v1)",
+    "downloads": 16105,
+    "max_version": "7.0.0+20251209",
+    "name": "google-cloudbuild1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloudchannel (protocol v1)",
+    "downloads": 17514,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudchannel1"
+  },
+  {
+    "description": "A complete library to interact with Cloudchannel (protocol v1)",
+    "downloads": 6505,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudchannel1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Commerce Partner Procurement Service (protocol v1)",
+    "downloads": 5134,
+    "max_version": "7.0.0+20251214",
+    "name": "google-cloudcommerceprocurement1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Commerce Partner Procurement Service (protocol v1)",
+    "downloads": 1071,
+    "max_version": "7.0.0+20251214",
+    "name": "google-cloudcommerceprocurement1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Debugger (protocol v2)",
+    "downloads": 58588,
+    "max_version": "7.0.0+20230113",
+    "name": "google-clouddebugger2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Debugger (protocol v2)",
+    "downloads": 31356,
+    "max_version": "7.0.0+20230113",
+    "name": "google-clouddebugger2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Deploy (protocol v1)",
+    "downloads": 12375,
+    "max_version": "7.0.0+20251203",
+    "name": "google-clouddeploy1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Deploy (protocol v1)",
+    "downloads": 3972,
+    "max_version": "7.0.0+20251203",
+    "name": "google-clouddeploy1-cli"
+  },
+  {
+    "description": "A complete library to interact with Clouderrorreporting (protocol v1beta1)",
+    "downloads": 62566,
+    "max_version": "7.0.0+20251205",
+    "name": "google-clouderrorreporting1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Clouderrorreporting (protocol v1beta1)",
+    "downloads": 13996,
+    "max_version": "3.1.0+20220302",
+    "name": "google-clouderrorreporting1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Functions (protocol v1)",
+    "downloads": 31913,
+    "max_version": "7.0.0+20251204",
+    "name": "google-cloudfunctions1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Functions (protocol v1)",
+    "downloads": 17712,
+    "max_version": "7.0.0+20251204",
+    "name": "google-cloudfunctions1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Identity (protocol v1)",
+    "downloads": 25287,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudidentity1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Identity (protocol v1)",
+    "downloads": 13307,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudidentity1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Iot (protocol v1)",
+    "downloads": 30441,
+    "max_version": "7.0.0+0",
+    "name": "google-cloudiot1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Iot (protocol v1)",
+    "downloads": 17631,
+    "max_version": "7.0.0+0",
+    "name": "google-cloudiot1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud KMS (protocol v1)",
+    "downloads": 85391,
+    "max_version": "7.0.0+20251203",
+    "name": "google-cloudkms1"
+  },
+  {
+    "description": "A complete library to interact with Cloud KMS (protocol v1)",
+    "downloads": 17928,
+    "max_version": "7.0.0+20251203",
+    "name": "google-cloudkms1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud KMS (protocol v1beta1)",
+    "downloads": 32232,
+    "max_version": "7.0.0+20170515",
+    "name": "google-cloudkms1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud KMS (protocol v1beta1)",
+    "downloads": 21186,
+    "max_version": "7.0.0+20170515",
+    "name": "google-cloudkms1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with cloudlatencytest (protocol v2)",
+    "downloads": 61578,
+    "max_version": "7.0.0+20160309",
+    "name": "google-cloudlatencytest2"
+  },
+  {
+    "description": "A complete library to interact with cloudlatencytest (protocol v2)",
+    "downloads": 29428,
+    "max_version": "7.0.0+20160309",
+    "name": "google-cloudlatencytest2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Monitoring (protocol v2beta2)",
+    "downloads": 73696,
+    "max_version": "7.0.0+20170501",
+    "name": "google-cloudmonitoring2_beta2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Monitoring (protocol v2beta2)",
+    "downloads": 32472,
+    "max_version": "7.0.0+20170501",
+    "name": "google-cloudmonitoring2_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Private Catalog (protocol v1beta1)",
+    "downloads": 24389,
+    "max_version": "7.0.0+20200405",
+    "name": "google-cloudprivatecatalog1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Private Catalog (protocol v1beta1)",
+    "downloads": 12054,
+    "max_version": "7.0.0+20200405",
+    "name": "google-cloudprivatecatalog1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud PrivateCatalog Producer (protocol v1beta1)",
+    "downloads": 24295,
+    "max_version": "7.0.0+20200405",
+    "name": "google-cloudprivatecatalogproducer1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud PrivateCatalog Producer (protocol v1beta1)",
+    "downloads": 13264,
+    "max_version": "7.0.0+20200405",
+    "name": "google-cloudprivatecatalogproducer1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Profiler (protocol v2)",
+    "downloads": 300570,
+    "max_version": "7.0.0+20251006",
+    "name": "google-cloudprofiler2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Profiler (protocol v2)",
+    "downloads": 14618,
+    "max_version": "7.0.0+20251006",
+    "name": "google-cloudprofiler2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v1)",
+    "downloads": 62786,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v1)",
+    "downloads": 30880,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v1beta1)",
+    "downloads": 61436,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v1beta1)",
+    "downloads": 32628,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v2)",
+    "downloads": 25713,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v2)",
+    "downloads": 14906,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v3)",
+    "downloads": 17602,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager3"
+  },
+  {
+    "description": "A complete library to interact with Cloud Resource Manager (protocol v3)",
+    "downloads": 6418,
+    "max_version": "7.0.0+20251103",
+    "name": "google-cloudresourcemanager3-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Scheduler (protocol v1)",
+    "downloads": 24420,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudscheduler1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Scheduler (protocol v1)",
+    "downloads": 13177,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudscheduler1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Scheduler (protocol v1beta1)",
+    "downloads": 24842,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudscheduler1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Scheduler (protocol v1beta1)",
+    "downloads": 13422,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudscheduler1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with cloudsearch (protocol v1)",
+    "downloads": 10104,
+    "max_version": "0.1.6+20150416",
+    "name": "google-cloudsearch1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Shell (protocol v1)",
+    "downloads": 27381,
+    "max_version": "7.0.0+20251215",
+    "name": "google-cloudshell1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Shell (protocol v1)",
+    "downloads": 16343,
+    "max_version": "6.0.0+20240624",
+    "name": "google-cloudshell1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Support (protocol v2beta)",
+    "downloads": 12397,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudsupport2_beta"
+  },
+  {
+    "description": "A complete library to interact with Cloud Support (protocol v2beta)",
+    "downloads": 5351,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudsupport2_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Tasks (protocol v2)",
+    "downloads": 33408,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudtasks2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Tasks (protocol v2)",
+    "downloads": 14621,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudtasks2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Tasks (protocol v2beta2)",
+    "downloads": 32978,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudtasks2_beta2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Tasks (protocol v2beta2)",
+    "downloads": 19221,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudtasks2_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Tasks (protocol v2beta3)",
+    "downloads": 34051,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudtasks2_beta3"
+  },
+  {
+    "description": "A complete library to interact with Cloud Tasks (protocol v2beta3)",
+    "downloads": 16272,
+    "max_version": "7.0.0+20251216",
+    "name": "google-cloudtasks2_beta3-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Trace (protocol v1)",
+    "downloads": 43013,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudtrace1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Trace (protocol v1)",
+    "downloads": 19626,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudtrace1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Trace (protocol v2)",
+    "downloads": 29666,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudtrace2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Trace (protocol v2)",
+    "downloads": 17525,
+    "max_version": "7.0.0+20251212",
+    "name": "google-cloudtrace2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud User Accounts (protocol vm_beta)",
+    "downloads": 49278,
+    "max_version": "7.0.0+20160316",
+    "name": "google-clouduseraccountsvm_beta"
+  },
+  {
+    "description": "A complete library to interact with Cloud User Accounts (protocol vm_beta)",
+    "downloads": 30423,
+    "max_version": "7.0.0+20160316",
+    "name": "google-clouduseraccountsvm_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Comment Analyzer (protocol v1alpha1)",
+    "downloads": 24233,
+    "max_version": "7.0.0+20200405",
+    "name": "google-commentanalyzer1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with Comment Analyzer (protocol v1alpha1)",
+    "downloads": 14624,
+    "max_version": "7.0.0+20200405",
+    "name": "google-commentanalyzer1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Composer (protocol v1)",
+    "downloads": 27505,
+    "max_version": "7.0.0+20251209",
+    "name": "google-composer1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Composer (protocol v1)",
+    "downloads": 16199,
+    "max_version": "7.0.0+20251209",
+    "name": "google-composer1-cli"
+  },
+  {
+    "description": "A complete library to interact with compute (protocol v1)",
+    "downloads": 72222,
+    "max_version": "6.0.0+20240604",
+    "name": "google-compute1"
+  },
+  {
+    "description": "A complete library to interact with compute (protocol v1)",
+    "downloads": 14956,
+    "max_version": "6.0.0+20240604",
+    "name": "google-compute1-cli"
+  },
+  {
+    "description": "A complete library to interact with Connectors (protocol v1)",
+    "downloads": 12506,
+    "max_version": "7.0.0+20250930",
+    "name": "google-connectors1"
+  },
+  {
+    "description": "A complete library to interact with Connectors (protocol v1)",
+    "downloads": 5438,
+    "max_version": "7.0.0+20250930",
+    "name": "google-connectors1-cli"
+  },
+  {
+    "description": "A complete library to interact with Consumer Surveys (protocol v2)",
+    "downloads": 32045,
+    "max_version": "7.0.0+20170407",
+    "name": "google-consumersurveys2"
+  },
+  {
+    "description": "A complete library to interact with Consumer Surveys (protocol v2)",
+    "downloads": 18835,
+    "max_version": "7.0.0+20170407",
+    "name": "google-consumersurveys2-cli"
+  },
+  {
+    "description": "A complete library to interact with Contactcenterinsights (protocol v1)",
+    "downloads": 12544,
+    "max_version": "7.0.0+20251222",
+    "name": "google-contactcenterinsights1"
+  },
+  {
+    "description": "A complete library to interact with Contactcenterinsights (protocol v1)",
+    "downloads": 5382,
+    "max_version": "7.0.0+20251222",
+    "name": "google-contactcenterinsights1-cli"
+  },
+  {
+    "description": "A complete library to interact with Container (protocol v1)",
+    "downloads": 58192,
+    "max_version": "7.0.0+20251216",
+    "name": "google-container1"
+  },
+  {
+    "description": "A complete library to interact with Container (protocol v1)",
+    "downloads": 32136,
+    "max_version": "7.0.0+20251216",
+    "name": "google-container1-cli"
+  },
+  {
+    "description": "A complete library to interact with container (protocol v1beta1)",
+    "downloads": 24981,
+    "max_version": "0.1.11+20151005",
+    "name": "google-container1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Container Analysis (protocol v1)",
+    "downloads": 12345,
+    "max_version": "7.0.0+20251212",
+    "name": "google-containeranalysis1"
+  },
+  {
+    "description": "A complete library to interact with Container Analysis (protocol v1)",
+    "downloads": 5424,
+    "max_version": "7.0.0+20251212",
+    "name": "google-containeranalysis1-cli"
+  },
+  {
+    "description": "A complete library to interact with Container Analysis (protocol v1beta1)",
+    "downloads": 24281,
+    "max_version": "7.0.0+20251212",
+    "name": "google-containeranalysis1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Container Analysis (protocol v1beta1)",
+    "downloads": 15832,
+    "max_version": "7.0.0+20251212",
+    "name": "google-containeranalysis1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Shopping Content (protocol v2)",
+    "downloads": 76874,
+    "max_version": "7.0.0+20220303",
+    "name": "google-content2"
+  },
+  {
+    "description": "A complete library to interact with Shopping Content (protocol v2)",
+    "downloads": 31080,
+    "max_version": "3.1.0+20220303",
+    "name": "google-content2-cli"
+  },
+  {
+    "description": "A complete library to interact with Shopping Content (protocol v2sandbox)",
+    "downloads": 58807,
+    "max_version": "7.0.0+20181009",
+    "name": "google-content2_sandbox"
+  },
+  {
+    "description": "A complete library to interact with Shopping Content (protocol v2sandbox)",
+    "downloads": 33172,
+    "max_version": "3.1.0+20181009",
+    "name": "google-content2_sandbox-cli"
+  },
+  {
+    "description": "A complete library to interact with coordinate (protocol v1)",
+    "downloads": 67372,
+    "max_version": "7.0.0+20150811",
+    "name": "google-coordinate1"
+  },
+  {
+    "description": "A complete library to interact with coordinate (protocol v1)",
+    "downloads": 28678,
+    "max_version": "3.1.0+20150811",
+    "name": "google-coordinate1-cli"
+  },
+  {
+    "description": "A complete library to interact with CustomSearch API (protocol v1)",
+    "downloads": 72160,
+    "max_version": "7.0.0+20251211",
+    "name": "google-customsearch1"
+  },
+  {
+    "description": "A complete library to interact with CustomSearch API (protocol v1)",
+    "downloads": 33217,
+    "max_version": "7.0.0+20251211",
+    "name": "google-customsearch1-cli"
+  },
+  {
+    "description": "A complete library to interact with Data Catalog (protocol v1)",
+    "downloads": 12333,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datacatalog1"
+  },
+  {
+    "description": "A complete library to interact with Data Catalog (protocol v1)",
+    "downloads": 5416,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datacatalog1-cli"
+  },
+  {
+    "description": "A complete library to interact with Data Catalog (protocol v1beta1)",
+    "downloads": 18789,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datacatalog1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Data Catalog (protocol v1beta1)",
+    "downloads": 10500,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datacatalog1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with dataflow (protocol v1b4)",
+    "downloads": 8296,
+    "max_version": "0.1.5+20150401",
+    "name": "google-dataflow1_b4"
+  },
+  {
+    "description": "A complete library to interact with Data Fusion (protocol v1)",
+    "downloads": 17719,
+    "max_version": "7.0.0+20251203",
+    "name": "google-datafusion1"
+  },
+  {
+    "description": "A complete library to interact with Data Fusion (protocol v1)",
+    "downloads": 9085,
+    "max_version": "7.0.0+20251203",
+    "name": "google-datafusion1-cli"
+  },
+  {
+    "description": "A complete library to interact with Data Fusion (protocol v1beta1)",
+    "downloads": 24238,
+    "max_version": "7.0.0+20251203",
+    "name": "google-datafusion1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Data Fusion (protocol v1beta1)",
+    "downloads": 15920,
+    "max_version": "7.0.0+20251203",
+    "name": "google-datafusion1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Data Labeling (protocol v1beta1)",
+    "downloads": 17487,
+    "max_version": "7.0.0+20250723",
+    "name": "google-datalabeling1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Data Labeling (protocol v1beta1)",
+    "downloads": 9184,
+    "max_version": "7.0.0+20250723",
+    "name": "google-datalabeling1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Database Migration Service (protocol v1)",
+    "downloads": 17478,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datamigration1"
+  },
+  {
+    "description": "A complete library to interact with Database Migration Service (protocol v1)",
+    "downloads": 9137,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datamigration1-cli"
+  },
+  {
+    "description": "A complete library to interact with Datapipelines (protocol v1)",
+    "downloads": 12346,
+    "max_version": "7.0.0+20251214",
+    "name": "google-datapipelines1"
+  },
+  {
+    "description": "A complete library to interact with Datapipelines (protocol v1)",
+    "downloads": 5416,
+    "max_version": "7.0.0+20251214",
+    "name": "google-datapipelines1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Dataplex (protocol v1)",
+    "downloads": 12430,
+    "max_version": "7.0.0+20251203",
+    "name": "google-dataplex1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Dataplex (protocol v1)",
+    "downloads": 5419,
+    "max_version": "7.0.0+20251203",
+    "name": "google-dataplex1-cli"
+  },
+  {
+    "description": "A complete library to interact with Dataproc (protocol v1)",
+    "downloads": 56245,
+    "max_version": "7.0.0+20251203",
+    "name": "google-dataproc1"
+  },
+  {
+    "description": "A complete library to interact with Dataproc (protocol v1)",
+    "downloads": 31240,
+    "max_version": "3.1.0+20220224",
+    "name": "google-dataproc1-cli"
+  },
+  {
+    "description": "A complete library to interact with datastore (protocol v1)",
+    "downloads": 52930,
+    "max_version": "7.0.0+20251216",
+    "name": "google-datastore1"
+  },
+  {
+    "description": "A complete library to interact with datastore (protocol v1)",
+    "downloads": 18780,
+    "max_version": "7.0.0+20251216",
+    "name": "google-datastore1-cli"
+  },
+  {
+    "description": "A complete library to interact with datastore (protocol v1beta2)",
+    "downloads": 27812,
+    "max_version": "0.1.13+20160314",
+    "name": "google-datastore1_beta2"
+  },
+  {
+    "description": "A complete library to interact with datastore (protocol v1beta3)",
+    "downloads": 29321,
+    "max_version": "7.0.0+20251216",
+    "name": "google-datastore1_beta3"
+  },
+  {
+    "description": "A complete library to interact with datastore (protocol v1beta3)",
+    "downloads": 17736,
+    "max_version": "7.0.0+20251216",
+    "name": "google-datastore1_beta3-cli"
+  },
+  {
+    "description": "A complete library to interact with Datastream (protocol v1)",
+    "downloads": 12264,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datastream1"
+  },
+  {
+    "description": "A complete library to interact with Datastream (protocol v1)",
+    "downloads": 5357,
+    "max_version": "7.0.0+20251210",
+    "name": "google-datastream1-cli"
+  },
+  {
+    "description": "A complete library to interact with Deployment Manager (protocol v2)",
+    "downloads": 59044,
+    "max_version": "7.0.0+20251205",
+    "name": "google-deploymentmanager2"
+  },
+  {
+    "description": "A complete library to interact with Deployment Manager (protocol v2)",
+    "downloads": 34393,
+    "max_version": "7.0.0+20251205",
+    "name": "google-deploymentmanager2-cli"
+  },
+  {
+    "description": "A complete library to interact with deploymentmanager (protocol v2beta1)",
+    "downloads": 18807,
+    "max_version": "0.1.8+20150415",
+    "name": "google-deploymentmanager2_beta1"
+  },
+  {
+    "description": "A complete library to interact with Deployment Manager (protocol v2beta2)",
+    "downloads": 50017,
+    "max_version": "7.0.0+20160201",
+    "name": "google-deploymentmanager2_beta2"
+  },
+  {
+    "description": "A complete library to interact with Deployment Manager (protocol v2beta2)",
+    "downloads": 31927,
+    "max_version": "7.0.0+20160201",
+    "name": "google-deploymentmanager2_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.0)",
+    "downloads": 13632,
+    "max_version": "0.1.5+20150326",
+    "name": "google-dfareporting2"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.1)",
+    "downloads": 30596,
+    "max_version": "1.0.6+20160323",
+    "name": "google-dfareporting2d1"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.1)",
+    "downloads": 13598,
+    "max_version": "1.0.6+20160323",
+    "name": "google-dfareporting2d1-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.2)",
+    "downloads": 25108,
+    "max_version": "1.0.6+20160803",
+    "name": "google-dfareporting2d2"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.2)",
+    "downloads": 13493,
+    "max_version": "1.0.6+20160803",
+    "name": "google-dfareporting2d2-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.3)",
+    "downloads": 21765,
+    "max_version": "1.0.6+20160803",
+    "name": "google-dfareporting2d3"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.3)",
+    "downloads": 13519,
+    "max_version": "1.0.6+20160803",
+    "name": "google-dfareporting2d3-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.4)",
+    "downloads": 20013,
+    "max_version": "1.0.6+20160803",
+    "name": "google-dfareporting2d4"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.4)",
+    "downloads": 13420,
+    "max_version": "1.0.6+20160803",
+    "name": "google-dfareporting2d4-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.5)",
+    "downloads": 20161,
+    "max_version": "1.0.6+20170428",
+    "name": "google-dfareporting2d5"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.5)",
+    "downloads": 17173,
+    "max_version": "1.0.6+20170428",
+    "name": "google-dfareporting2d5-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.6)",
+    "downloads": 20622,
+    "max_version": "1.0.6+20170428",
+    "name": "google-dfareporting2d6"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.6)",
+    "downloads": 17407,
+    "max_version": "1.0.6+20170428",
+    "name": "google-dfareporting2d6-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.7)",
+    "downloads": 18379,
+    "max_version": "1.0.6+20170818",
+    "name": "google-dfareporting2d7"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.7)",
+    "downloads": 15631,
+    "max_version": "1.0.6+20170818",
+    "name": "google-dfareporting2d7-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.8)",
+    "downloads": 32390,
+    "max_version": "7.0.0+20180830",
+    "name": "google-dfareporting2d8"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v2.8)",
+    "downloads": 18223,
+    "max_version": "7.0.0+20180830",
+    "name": "google-dfareporting2d8-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v3.0)",
+    "downloads": 30666,
+    "max_version": "7.0.0+20180830",
+    "name": "google-dfareporting3"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v3.0)",
+    "downloads": 18186,
+    "max_version": "7.0.0+20180830",
+    "name": "google-dfareporting3-cli"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v3.2)",
+    "downloads": 27177,
+    "max_version": "7.0.0+20190531",
+    "name": "google-dfareporting3d2"
+  },
+  {
+    "description": "A complete library to interact with dfareporting (protocol v3.2)",
+    "downloads": 13728,
+    "max_version": "7.0.0+20190531",
+    "name": "google-dfareporting3d2-cli"
+  },
+  {
+    "description": "A complete library to interact with Dfareporting (protocol v3.3)",
+    "downloads": 24515,
+    "max_version": "7.0.0+20220104",
+    "name": "google-dfareporting3d3"
+  },
+  {
+    "description": "A complete library to interact with Dfareporting (protocol v3.3)",
+    "downloads": 13735,
+    "max_version": "7.0.0+20220104",
+    "name": "google-dfareporting3d3-cli"
+  },
+  {
+    "description": "A complete library to interact with Dfareporting (protocol v3.4)",
+    "downloads": 18941,
+    "max_version": "7.0.0+20230118",
+    "name": "google-dfareporting3d4"
+  },
+  {
+    "description": "A complete library to interact with Dfareporting (protocol v3.4)",
+    "downloads": 8303,
+    "max_version": "7.0.0+20230118",
+    "name": "google-dfareporting3d4-cli"
+  },
+  {
+    "description": "A complete library to interact with Dfareporting (protocol v3.5)",
+    "downloads": 12486,
+    "max_version": "7.0.0+20251023",
+    "name": "google-dfareporting3d5"
+  },
+  {
+    "description": "A complete library to interact with Dfareporting (protocol v3.5)",
+    "downloads": 3196,
+    "max_version": "7.0.0+20251023",
+    "name": "google-dfareporting3d5-cli"
+  },
+  {
+    "description": "A complete library to interact with Dialogflow (protocol v2)",
+    "downloads": 27257,
+    "max_version": "6.0.0+20240614",
+    "name": "google-dialogflow2"
+  },
+  {
+    "description": "A complete library to interact with Dialogflow (protocol v2)",
+    "downloads": 17271,
+    "max_version": "6.0.0+20240614",
+    "name": "google-dialogflow2-cli"
+  },
+  {
+    "description": "A complete library to interact with Dialogflow (protocol v2beta1)",
+    "downloads": 48678,
+    "max_version": "6.0.0+20240614",
+    "name": "google-dialogflow2_beta1"
+  },
+  {
+    "description": "A complete library to interact with Dialogflow (protocol v2beta1)",
+    "downloads": 20258,
+    "max_version": "6.0.0+20240614",
+    "name": "google-dialogflow2_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Dialogflow (protocol v3)",
+    "downloads": 17652,
+    "max_version": "6.0.0+20240614",
+    "name": "google-dialogflow3"
+  },
+  {
+    "description": "A complete library to interact with Dialogflow (protocol v3)",
+    "downloads": 9123,
+    "max_version": "6.0.0+20240614",
+    "name": "google-dialogflow3-cli"
+  },
+  {
+    "description": "A complete library to interact with digitalassetlinks (protocol v1)",
+    "downloads": 27268,
+    "max_version": "7.0.0+20251206",
+    "name": "google-digitalassetlinks1"
+  },
+  {
+    "description": "A complete library to interact with digitalassetlinks (protocol v1)",
+    "downloads": 17471,
+    "max_version": "7.0.0+20251206",
+    "name": "google-digitalassetlinks1-cli"
+  },
+  {
+    "description": "A complete library to interact with discovery (protocol v1)",
+    "downloads": 60211,
+    "max_version": "7.0.0+20200806",
+    "name": "google-discovery1"
+  },
+  {
+    "description": "A complete library to interact with discovery (protocol v1)",
+    "downloads": 33020,
+    "max_version": "7.0.0+20200806",
+    "name": "google-discovery1-cli"
+  },
+  {
+    "description": "A complete library to interact with Display Video (protocol v1)",
+    "downloads": 18754,
+    "max_version": "7.0.0+20251204",
+    "name": "google-displayvideo1"
+  },
+  {
+    "description": "A complete library to interact with Display Video (protocol v1)",
+    "downloads": 6931,
+    "max_version": "7.0.0+20251204",
+    "name": "google-displayvideo1-cli"
+  },
+  {
+    "description": "A complete library to interact with DLP (protocol v2)",
+    "downloads": 27133,
+    "max_version": "7.0.0+20251213",
+    "name": "google-dlp2"
+  },
+  {
+    "description": "A complete library to interact with DLP (protocol v2)",
+    "downloads": 17247,
+    "max_version": "7.0.0+20251213",
+    "name": "google-dlp2-cli"
+  },
+  {
+    "description": "A complete library to interact with DLP (protocol v2beta1)",
+    "downloads": 30374,
+    "max_version": "7.0.0+20171205",
+    "name": "google-dlp2_beta1"
+  },
+  {
+    "description": "A complete library to interact with DLP (protocol v2beta1)",
+    "downloads": 20450,
+    "max_version": "7.0.0+20171205",
+    "name": "google-dlp2_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Dns (protocol v1)",
+    "downloads": 129849,
+    "max_version": "7.0.0+20251211",
+    "name": "google-dns1"
+  },
+  {
+    "description": "A complete library to interact with Dns (protocol v1)",
+    "downloads": 36580,
+    "max_version": "7.0.0+20251211",
+    "name": "google-dns1-cli"
+  },
+  {
+    "description": "A complete library to interact with dns (protocol v1beta1)",
+    "downloads": 13754,
+    "max_version": "0.1.5+20150114",
+    "name": "google-dns1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Dns (protocol v2)",
+    "downloads": 15468,
+    "max_version": "7.0.0+20251211",
+    "name": "google-dns2"
+  },
+  {
+    "description": "A complete library to interact with Dns (protocol v2)",
+    "downloads": 5437,
+    "max_version": "7.0.0+20251211",
+    "name": "google-dns2-cli"
+  },
+  {
+    "description": "A complete library to interact with Docs (protocol v1)",
+    "downloads": 66884,
+    "max_version": "7.0.0+20251215",
+    "name": "google-docs1"
+  },
+  {
+    "description": "A complete library to interact with Docs (protocol v1)",
+    "downloads": 13466,
+    "max_version": "7.0.0+20251215",
+    "name": "google-docs1-cli"
+  },
+  {
+    "description": "A complete library to interact with Document (protocol v1)",
+    "downloads": 17935,
+    "max_version": "7.0.0+20251213",
+    "name": "google-documentai1"
+  },
+  {
+    "description": "A complete library to interact with Document (protocol v1)",
+    "downloads": 9005,
+    "max_version": "7.0.0+20251213",
+    "name": "google-documentai1-cli"
+  },
+  {
+    "description": "A complete library to interact with Document (protocol v1beta2)",
+    "downloads": 19058,
+    "max_version": "7.0.0+20240619",
+    "name": "google-documentai1_beta2"
+  },
+  {
+    "description": "A complete library to interact with Document (protocol v1beta2)",
+    "downloads": 10404,
+    "max_version": "7.0.0+20240619",
+    "name": "google-documentai1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Domains (protocol v1)",
+    "downloads": 12366,
+    "max_version": "7.0.0+20250918",
+    "name": "google-domains1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Domains (protocol v1)",
+    "downloads": 5329,
+    "max_version": "7.0.0+20250918",
+    "name": "google-domains1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Domains (protocol v1beta1)",
+    "downloads": 17465,
+    "max_version": "7.0.0+20250918",
+    "name": "google-domains1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Domains (protocol v1beta1)",
+    "downloads": 9072,
+    "max_version": "7.0.0+20250918",
+    "name": "google-domains1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Domains RDAP (protocol v1)",
+    "downloads": 18933,
+    "max_version": "7.0.0+20240626",
+    "name": "google-domainsrdap1"
+  },
+  {
+    "description": "A complete library to interact with Domains RDAP (protocol v1)",
+    "downloads": 10491,
+    "max_version": "7.0.0+20240626",
+    "name": "google-domainsrdap1-cli"
+  },
+  {
+    "description": "A complete library to interact with DoubleClick Bid Manager (protocol v1)",
+    "downloads": 71360,
+    "max_version": "7.0.0+20210323",
+    "name": "google-doubleclickbidmanager1"
+  },
+  {
+    "description": "A complete library to interact with DoubleClick Bid Manager (protocol v1)",
+    "downloads": 31157,
+    "max_version": "7.0.0+20210323",
+    "name": "google-doubleclickbidmanager1-cli"
+  },
+  {
+    "description": "A complete library to interact with DoubleClick Bid Manager (protocol v1.1)",
+    "downloads": 18912,
+    "max_version": "7.0.0+20230117",
+    "name": "google-doubleclickbidmanager1d1"
+  },
+  {
+    "description": "A complete library to interact with DoubleClick Bid Manager (protocol v1.1)",
+    "downloads": 8402,
+    "max_version": "7.0.0+20230117",
+    "name": "google-doubleclickbidmanager1d1-cli"
+  },
+  {
+    "description": "A complete library to interact with Doubleclicksearch (protocol v2)",
+    "downloads": 78022,
+    "max_version": "7.0.0+20251210",
+    "name": "google-doubleclicksearch2"
+  },
+  {
+    "description": "A complete library to interact with Doubleclicksearch (protocol v2)",
+    "downloads": 34524,
+    "max_version": "7.0.0+20251210",
+    "name": "google-doubleclicksearch2-cli"
+  },
+  {
+    "description": "A complete library to interact with drive (protocol v2)",
+    "downloads": 76505,
+    "max_version": "7.0.0+20251218",
+    "name": "google-drive2"
+  },
+  {
+    "description": "A complete library to interact with drive (protocol v2)",
+    "downloads": 33663,
+    "max_version": "7.0.0+20251218",
+    "name": "google-drive2-cli"
+  },
+  {
+    "description": "A complete library to interact with drive (protocol v3)",
+    "downloads": 2841330,
+    "max_version": "7.0.0+20251218",
+    "name": "google-drive3"
+  },
+  {
+    "description": "A complete library to interact with drive (protocol v3)",
+    "downloads": 43524,
+    "max_version": "7.0.0+20251218",
+    "name": "google-drive3-cli"
+  },
+  {
+    "description": "A complete library to interact with Drive Activity (protocol v2)",
+    "downloads": 24710,
+    "max_version": "7.0.0+20251216",
+    "name": "google-driveactivity2"
+  },
+  {
+    "description": "A complete library to interact with Drive Activity (protocol v2)",
+    "downloads": 15914,
+    "max_version": "7.0.0+20251216",
+    "name": "google-driveactivity2-cli"
+  },
+  {
+    "description": "A complete library to interact with Essentialcontacts (protocol v1)",
+    "downloads": 12586,
+    "max_version": "7.0.0+20251211",
+    "name": "google-essentialcontacts1"
+  },
+  {
+    "description": "A complete library to interact with Essentialcontacts (protocol v1)",
+    "downloads": 5392,
+    "max_version": "7.0.0+20251211",
+    "name": "google-essentialcontacts1-cli"
+  },
+  {
+    "description": "A complete library to interact with Eventarc (protocol v1)",
+    "downloads": 17486,
+    "max_version": "7.0.0+20251219",
+    "name": "google-eventarc1"
+  },
+  {
+    "description": "A complete library to interact with Eventarc (protocol v1)",
+    "downloads": 9163,
+    "max_version": "7.0.0+20251219",
+    "name": "google-eventarc1-cli"
+  },
+  {
+    "description": "A complete library to interact with Fact Check Tools (protocol v1alpha1)",
+    "downloads": 24345,
+    "max_version": "7.0.0+20251221",
+    "name": "google-factchecktools1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with Fact Check Tools (protocol v1alpha1)",
+    "downloads": 15929,
+    "max_version": "7.0.0+20251221",
+    "name": "google-factchecktools1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Cloud Messaging (protocol v1)",
+    "downloads": 224947,
+    "max_version": "7.0.0+20251212",
+    "name": "google-fcm1"
+  },
+  {
+    "description": "A complete library to interact with Firebase Cloud Messaging (protocol v1)",
+    "downloads": 15909,
+    "max_version": "7.0.0+20251212",
+    "name": "google-fcm1-cli"
+  },
+  {
+    "description": "A complete library to interact with Fcmdata (protocol v1beta1)",
+    "downloads": 12312,
+    "max_version": "7.0.0+20251214",
+    "name": "google-fcmdata1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Fcmdata (protocol v1beta1)",
+    "downloads": 5395,
+    "max_version": "7.0.0+20251214",
+    "name": "google-fcmdata1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Filestore (protocol v1)",
+    "downloads": 24605,
+    "max_version": "7.0.0+20251204",
+    "name": "google-file1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Filestore (protocol v1)",
+    "downloads": 15863,
+    "max_version": "7.0.0+20251204",
+    "name": "google-file1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Filestore (protocol v1beta1)",
+    "downloads": 27789,
+    "max_version": "7.0.0+20251204",
+    "name": "google-file1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Filestore (protocol v1beta1)",
+    "downloads": 17477,
+    "max_version": "7.0.0+20251204",
+    "name": "google-file1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Management (protocol v1beta1)",
+    "downloads": 24509,
+    "max_version": "7.0.0+20251217",
+    "name": "google-firebase1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Firebase Management (protocol v1beta1)",
+    "downloads": 15782,
+    "max_version": "6.0.0+20240624",
+    "name": "google-firebase1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebaseappcheck (protocol v1beta)",
+    "downloads": 12463,
+    "max_version": "7.0.0+20251213",
+    "name": "google-firebaseappcheck1_beta"
+  },
+  {
+    "description": "A complete library to interact with Firebaseappcheck (protocol v1beta)",
+    "downloads": 5361,
+    "max_version": "7.0.0+20251213",
+    "name": "google-firebaseappcheck1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Realtime Database (protocol v1beta)",
+    "downloads": 17624,
+    "max_version": "7.0.0+20251223",
+    "name": "google-firebasedatabase1_beta"
+  },
+  {
+    "description": "A complete library to interact with Firebase Realtime Database (protocol v1beta)",
+    "downloads": 9311,
+    "max_version": "7.0.0+20251223",
+    "name": "google-firebasedatabase1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Dynamic Links (protocol v1)",
+    "downloads": 45148,
+    "max_version": "7.0.0+20251215",
+    "name": "google-firebasedynamiclinks1"
+  },
+  {
+    "description": "A complete library to interact with Firebase Dynamic Links (protocol v1)",
+    "downloads": 31400,
+    "max_version": "7.0.0+20251215",
+    "name": "google-firebasedynamiclinks1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Hosting (protocol v1)",
+    "downloads": 19005,
+    "max_version": "7.0.0+20251214",
+    "name": "google-firebasehosting1"
+  },
+  {
+    "description": "A complete library to interact with Firebase Hosting (protocol v1)",
+    "downloads": 10354,
+    "max_version": "7.0.0+20251214",
+    "name": "google-firebasehosting1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Hosting (protocol v1beta1)",
+    "downloads": 27143,
+    "max_version": "7.0.0+20251214",
+    "name": "google-firebasehosting1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Firebase Hosting (protocol v1beta1)",
+    "downloads": 17164,
+    "max_version": "7.0.0+20251214",
+    "name": "google-firebasehosting1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase ML (protocol v1)",
+    "downloads": 18835,
+    "max_version": "7.0.0+20251217",
+    "name": "google-firebaseml1"
+  },
+  {
+    "description": "A complete library to interact with Firebase ML (protocol v1)",
+    "downloads": 10282,
+    "max_version": "7.0.0+20251217",
+    "name": "google-firebaseml1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebase Remote Config (protocol v1)",
+    "downloads": 30605,
+    "max_version": "7.0.0+20171129",
+    "name": "google-firebaseremoteconfig1"
+  },
+  {
+    "description": "A complete library to interact with Firebase Remote Config (protocol v1)",
+    "downloads": 20567,
+    "max_version": "7.0.0+20171129",
+    "name": "google-firebaseremoteconfig1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firebasestorage (protocol v1beta)",
+    "downloads": 17304,
+    "max_version": "7.0.0+20251212",
+    "name": "google-firebasestorage1_beta"
+  },
+  {
+    "description": "A complete library to interact with Firebasestorage (protocol v1beta)",
+    "downloads": 9032,
+    "max_version": "7.0.0+20251212",
+    "name": "google-firebasestorage1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Firestore (protocol v1)",
+    "downloads": 28103,
+    "max_version": "7.0.0+20251216",
+    "name": "google-firestore1"
+  },
+  {
+    "description": "A complete library to interact with Firestore (protocol v1)",
+    "downloads": 14155,
+    "max_version": "3.1.0+20220221",
+    "name": "google-firestore1-cli"
+  },
+  {
+    "description": "A complete library to interact with Firestore (protocol v1beta1)",
+    "downloads": 31116,
+    "max_version": "7.0.0+20251216",
+    "name": "google-firestore1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Firestore (protocol v1beta1)",
+    "downloads": 17851,
+    "max_version": "3.1.0+20220221",
+    "name": "google-firestore1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with fitness (protocol v1)",
+    "downloads": 74042,
+    "max_version": "7.0.0+20251222",
+    "name": "google-fitness1"
+  },
+  {
+    "description": "A complete library to interact with fitness (protocol v1)",
+    "downloads": 33651,
+    "max_version": "7.0.0+20251222",
+    "name": "google-fitness1-cli"
+  },
+  {
+    "description": "A complete library to interact with freebase (protocol v1)",
+    "downloads": 28906,
+    "max_version": "0.1.14+20150728",
+    "name": "google-freebase1"
+  },
+  {
+    "description": "A complete library to interact with freebase (protocol v1sandbox)",
+    "downloads": 17251,
+    "max_version": "0.1.11+20150715",
+    "name": "google-freebase1_sandbox"
+  },
+  {
+    "description": "A complete library to interact with fusiontables (protocol v2)",
+    "downloads": 70447,
+    "max_version": "7.0.0+20171117",
+    "name": "google-fusiontables2"
+  },
+  {
+    "description": "A complete library to interact with fusiontables (protocol v2)",
+    "downloads": 33075,
+    "max_version": "7.0.0+20171117",
+    "name": "google-fusiontables2-cli"
+  },
+  {
+    "description": "A complete library to interact with Games (protocol v1)",
+    "downloads": 77273,
+    "max_version": "7.0.0+20251216",
+    "name": "google-games1"
+  },
+  {
+    "description": "A complete library to interact with Games (protocol v1)",
+    "downloads": 34089,
+    "max_version": "7.0.0+20251216",
+    "name": "google-games1-cli"
+  },
+  {
+    "description": "A complete library to interact with Games Configuration (protocol v1configuration)",
+    "downloads": 76222,
+    "max_version": "7.0.0+20251216",
+    "name": "google-gamesconfiguration1_configuration"
+  },
+  {
+    "description": "A complete library to interact with Games Configuration (protocol v1configuration)",
+    "downloads": 33665,
+    "max_version": "7.0.0+20251216",
+    "name": "google-gamesconfiguration1_configuration-cli"
+  },
+  {
+    "description": "A complete library to interact with Game Services (protocol v1)",
+    "downloads": 18672,
+    "max_version": "7.0.0+20230105",
+    "name": "google-gameservices1"
+  },
+  {
+    "description": "A complete library to interact with Game Services (protocol v1)",
+    "downloads": 10343,
+    "max_version": "7.0.0+20230105",
+    "name": "google-gameservices1-cli"
+  },
+  {
+    "description": "A complete library to interact with Games Management (protocol v1management)",
+    "downloads": 76038,
+    "max_version": "7.0.0+20251216",
+    "name": "google-gamesmanagement1_management"
+  },
+  {
+    "description": "A complete library to interact with Games Management (protocol v1management)",
+    "downloads": 37327,
+    "max_version": "7.0.0+20251216",
+    "name": "google-gamesmanagement1_management-cli"
+  },
+  {
+    "description": "A complete library to interact with gan (protocol v1beta1)",
+    "downloads": 61559,
+    "max_version": "7.0.0+20130205",
+    "name": "google-gan1_beta1"
+  },
+  {
+    "description": "A complete library to interact with gan (protocol v1beta1)",
+    "downloads": 29326,
+    "max_version": "7.0.0+20130205",
+    "name": "google-gan1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with genomics (protocol v1)",
+    "downloads": 61125,
+    "max_version": "7.0.0+20210324",
+    "name": "google-genomics1"
+  },
+  {
+    "description": "A complete library to interact with genomics (protocol v1)",
+    "downloads": 36206,
+    "max_version": "7.0.0+20210324",
+    "name": "google-genomics1-cli"
+  },
+  {
+    "description": "A complete library to interact with genomics (protocol v1beta2)",
+    "downloads": 19153,
+    "max_version": "0.1.8+20150326",
+    "name": "google-genomics1_beta2"
+  },
+  {
+    "description": "A complete library to interact with GKE Hub (protocol v1)",
+    "downloads": 14156,
+    "max_version": "5.0.3+20230106",
+    "name": "google-gkehub1"
+  },
+  {
+    "description": "A complete library to interact with GKE Hub (protocol v1)",
+    "downloads": 6871,
+    "max_version": "3.1.0+20220211",
+    "name": "google-gkehub1-cli"
+  },
+  {
+    "description": "A complete library to interact with Gmail (protocol v1)",
+    "downloads": 197062,
+    "max_version": "7.0.0+20251215",
+    "name": "google-gmail1"
+  },
+  {
+    "description": "A complete library to interact with Gmail (protocol v1)",
+    "downloads": 25511,
+    "max_version": "7.0.0+20251215",
+    "name": "google-gmail1-cli"
+  },
+  {
+    "description": "A complete library to interact with Postmaster Tools (protocol v1)",
+    "downloads": 17124,
+    "max_version": "7.0.0+20251219",
+    "name": "google-gmailpostmastertools1"
+  },
+  {
+    "description": "A complete library to interact with Postmaster Tools (protocol v1)",
+    "downloads": 8991,
+    "max_version": "7.0.0+20251219",
+    "name": "google-gmailpostmastertools1-cli"
+  },
+  {
+    "description": "A complete library to interact with Postmaster Tools (protocol v1beta1)",
+    "downloads": 18668,
+    "max_version": "7.0.0+20251219",
+    "name": "google-gmailpostmastertools1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Postmaster Tools (protocol v1beta1)",
+    "downloads": 10322,
+    "max_version": "7.0.0+20251219",
+    "name": "google-gmailpostmastertools1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Groups Migration (protocol v1)",
+    "downloads": 71811,
+    "max_version": "7.0.0+20251215",
+    "name": "google-groupsmigration1"
+  },
+  {
+    "description": "A complete library to interact with Groups Migration (protocol v1)",
+    "downloads": 32448,
+    "max_version": "7.0.0+20251215",
+    "name": "google-groupsmigration1-cli"
+  },
+  {
+    "description": "A complete library to interact with groupssettings (protocol v1)",
+    "downloads": 71025,
+    "max_version": "7.0.0+20220614",
+    "name": "google-groupssettings1"
+  },
+  {
+    "description": "A complete library to interact with groupssettings (protocol v1)",
+    "downloads": 32858,
+    "max_version": "7.0.0+20220614",
+    "name": "google-groupssettings1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Healthcare (protocol v1)",
+    "downloads": 19100,
+    "max_version": "7.0.0+20251211",
+    "name": "google-healthcare1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Healthcare (protocol v1)",
+    "downloads": 10233,
+    "max_version": "7.0.0+20251211",
+    "name": "google-healthcare1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Healthcare (protocol v1beta1)",
+    "downloads": 24328,
+    "max_version": "7.0.0+20251211",
+    "name": "google-healthcare1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Healthcare (protocol v1beta1)",
+    "downloads": 15868,
+    "max_version": "7.0.0+20251211",
+    "name": "google-healthcare1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Home Graph Service (protocol v1)",
+    "downloads": 3050,
+    "max_version": "7.0.0+20240621",
+    "name": "google-homegraph1"
+  },
+  {
+    "description": "A complete library to interact with Home Graph Service (protocol v1)",
+    "downloads": 1670,
+    "max_version": "7.0.0+20251218",
+    "name": "google-homegraph1-cli"
+  },
+  {
+    "description": "A complete library to interact with Iam (protocol v1)",
+    "downloads": 56008,
+    "max_version": "7.0.0+20251204",
+    "name": "google-iam1"
+  },
+  {
+    "description": "A complete library to interact with Iam (protocol v1)",
+    "downloads": 29399,
+    "max_version": "3.1.0+20220224",
+    "name": "google-iam1-cli"
+  },
+  {
+    "description": "A complete library to interact with IAM Credentials (protocol v1)",
+    "downloads": 110406,
+    "max_version": "7.0.0+20251108",
+    "name": "google-iamcredentials1"
+  },
+  {
+    "description": "A complete library to interact with IAM Credentials (protocol v1)",
+    "downloads": 17362,
+    "max_version": "7.0.0+20251108",
+    "name": "google-iamcredentials1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud IAP (protocol v1)",
+    "downloads": 24551,
+    "max_version": "7.0.0+20251208",
+    "name": "google-iap1"
+  },
+  {
+    "description": "A complete library to interact with Cloud IAP (protocol v1)",
+    "downloads": 15764,
+    "max_version": "7.0.0+20251208",
+    "name": "google-iap1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud IAP (protocol v1beta1)",
+    "downloads": 27307,
+    "max_version": "7.0.0+20251208",
+    "name": "google-iap1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud IAP (protocol v1beta1)",
+    "downloads": 15725,
+    "max_version": "7.0.0+20251208",
+    "name": "google-iap1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Ideahub (protocol v1beta)",
+    "downloads": 12336,
+    "max_version": "7.0.0+20220305",
+    "name": "google-ideahub1_beta"
+  },
+  {
+    "description": "A complete library to interact with Ideahub (protocol v1beta)",
+    "downloads": 5405,
+    "max_version": "7.0.0+20220305",
+    "name": "google-ideahub1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Identity Toolkit (protocol v3)",
+    "downloads": 139539,
+    "max_version": "7.0.0+20180723",
+    "name": "google-identitytoolkit3"
+  },
+  {
+    "description": "A complete library to interact with Identity Toolkit (protocol v3)",
+    "downloads": 33192,
+    "max_version": "7.0.0+20180723",
+    "name": "google-identitytoolkit3-cli"
+  },
+  {
+    "description": "A complete library to interact with IDS (protocol v1)",
+    "downloads": 12309,
+    "max_version": "7.0.0+20251201",
+    "name": "google-ids1"
+  },
+  {
+    "description": "A complete library to interact with IDS (protocol v1)",
+    "downloads": 5313,
+    "max_version": "7.0.0+20251201",
+    "name": "google-ids1-cli"
+  },
+  {
+    "description": "A complete library to interact with Indexing (protocol v3)",
+    "downloads": 27400,
+    "max_version": "7.0.0+20251208",
+    "name": "google-indexing3"
+  },
+  {
+    "description": "A complete library to interact with Indexing (protocol v3)",
+    "downloads": 17533,
+    "max_version": "7.0.0+20251208",
+    "name": "google-indexing3-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Talent Solution (protocol v3)",
+    "downloads": 27357,
+    "max_version": "7.0.0+20251014",
+    "name": "google-jobs3"
+  },
+  {
+    "description": "A complete library to interact with Cloud Talent Solution (protocol v3)",
+    "downloads": 17303,
+    "max_version": "7.0.0+20251014",
+    "name": "google-jobs3-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Talent Solution (protocol v4)",
+    "downloads": 17365,
+    "max_version": "7.0.0+20251014",
+    "name": "google-jobs4"
+  },
+  {
+    "description": "A complete library to interact with Cloud Talent Solution (protocol v4)",
+    "downloads": 9009,
+    "max_version": "7.0.0+20251014",
+    "name": "google-jobs4-cli"
+  },
+  {
+    "description": "A complete library to interact with Keep (protocol v1)",
+    "downloads": 12411,
+    "max_version": "7.0.0+20251215",
+    "name": "google-keep1"
+  },
+  {
+    "description": "A complete library to interact with Keep (protocol v1)",
+    "downloads": 5397,
+    "max_version": "7.0.0+20251215",
+    "name": "google-keep1-cli"
+  },
+  {
+    "description": "A complete library to interact with kgsearch (protocol v1)",
+    "downloads": 17397,
+    "max_version": "1.0.4+20151215",
+    "name": "google-kgsearch1"
+  },
+  {
+    "description": "A complete library to interact with kgsearch (protocol v1)",
+    "downloads": 12455,
+    "max_version": "1.0.4+20170109",
+    "name": "google-kgsearch1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Natural Language (protocol v1)",
+    "downloads": 28773,
+    "max_version": "7.0.0+20251219",
+    "name": "google-language1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Natural Language (protocol v1)",
+    "downloads": 18653,
+    "max_version": "7.0.0+20251219",
+    "name": "google-language1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Natural Language (protocol v1beta1)",
+    "downloads": 27254,
+    "max_version": "7.0.0+20220218",
+    "name": "google-language1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Natural Language (protocol v1beta1)",
+    "downloads": 17788,
+    "max_version": "7.0.0+20220218",
+    "name": "google-language1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Libraryagent (protocol v1)",
+    "downloads": 24174,
+    "max_version": "7.0.0+20251222",
+    "name": "google-libraryagent1"
+  },
+  {
+    "description": "A complete library to interact with Libraryagent (protocol v1)",
+    "downloads": 15675,
+    "max_version": "7.0.0+20251222",
+    "name": "google-libraryagent1-cli"
+  },
+  {
+    "description": "A complete library to interact with licensing (protocol v1)",
+    "downloads": 66545,
+    "max_version": "7.0.0+20251215",
+    "name": "google-licensing1"
+  },
+  {
+    "description": "A complete library to interact with licensing (protocol v1)",
+    "downloads": 31760,
+    "max_version": "7.0.0+20251215",
+    "name": "google-licensing1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Life Sciences (protocol v2beta)",
+    "downloads": 18948,
+    "max_version": "7.0.0+20240614",
+    "name": "google-lifesciences2_beta"
+  },
+  {
+    "description": "A complete library to interact with Cloud Life Sciences (protocol v2beta)",
+    "downloads": 10340,
+    "max_version": "7.0.0+20240614",
+    "name": "google-lifesciences2_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with Localservices (protocol v1)",
+    "downloads": 17380,
+    "max_version": "7.0.0+20251211",
+    "name": "google-localservices1"
+  },
+  {
+    "description": "A complete library to interact with Localservices (protocol v1)",
+    "downloads": 9011,
+    "max_version": "7.0.0+20251211",
+    "name": "google-localservices1-cli"
+  },
+  {
+    "description": "A complete library to interact with logging (protocol v1beta3)",
+    "downloads": 19210,
+    "max_version": "0.1.11+20151007",
+    "name": "google-logging1_beta3"
+  },
+  {
+    "description": "A complete library to interact with Logging (protocol v2)",
+    "downloads": 83920,
+    "max_version": "7.0.0+20251202",
+    "name": "google-logging2"
+  },
+  {
+    "description": "A complete library to interact with Logging (protocol v2)",
+    "downloads": 31201,
+    "max_version": "7.0.0+20251202",
+    "name": "google-logging2-cli"
+  },
+  {
+    "description": "A complete library to interact with Logging (protocol v2beta1)",
+    "downloads": 56392,
+    "max_version": "7.0.0+20190325",
+    "name": "google-logging2_beta1"
+  },
+  {
+    "description": "A complete library to interact with Logging (protocol v2beta1)",
+    "downloads": 33078,
+    "max_version": "7.0.0+20190325",
+    "name": "google-logging2_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Managed Service for Microsoft Active Directory Consumer API (protocol v1)",
+    "downloads": 18736,
+    "max_version": "7.0.0+20250116",
+    "name": "google-managedidentities1"
+  },
+  {
+    "description": "A complete library to interact with Managed Service for Microsoft Active Directory Consumer API (protocol v1)",
+    "downloads": 9086,
+    "max_version": "7.0.0+20250116",
+    "name": "google-managedidentities1-cli"
+  },
+  {
+    "description": "A complete library to interact with manager (protocol v1beta2)",
+    "downloads": 66683,
+    "max_version": "7.0.0+20140915",
+    "name": "google-manager1_beta2"
+  },
+  {
+    "description": "A complete library to interact with manager (protocol v1beta2)",
+    "downloads": 31881,
+    "max_version": "7.0.0+20140915",
+    "name": "google-manager1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Manufacturer Center (protocol v1)",
+    "downloads": 45314,
+    "max_version": "7.0.0+20251226",
+    "name": "google-manufacturers1"
+  },
+  {
+    "description": "A complete library to interact with Manufacturer Center (protocol v1)",
+    "downloads": 30014,
+    "max_version": "7.0.0+20251226",
+    "name": "google-manufacturers1-cli"
+  },
+  {
+    "description": "A complete library to interact with Maps Engine (protocol v1)",
+    "downloads": 22365,
+    "max_version": "0.1.11+20151202",
+    "name": "google-mapsengine1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Memorystore for Memcached (protocol v1)",
+    "downloads": 17359,
+    "max_version": "7.0.0+20251005",
+    "name": "google-memcache1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Memorystore for Memcached (protocol v1)",
+    "downloads": 9043,
+    "max_version": "7.0.0+20251005",
+    "name": "google-memcache1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Memorystore for Memcached (protocol v1beta2)",
+    "downloads": 18841,
+    "max_version": "7.0.0+20251005",
+    "name": "google-memcache1_beta2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Memorystore for Memcached (protocol v1beta2)",
+    "downloads": 10401,
+    "max_version": "7.0.0+20251005",
+    "name": "google-memcache1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Dataproc Metastore (protocol v1beta)",
+    "downloads": 17800,
+    "max_version": "7.0.0+20251216",
+    "name": "google-metastore1_beta"
+  },
+  {
+    "description": "A complete library to interact with Dataproc Metastore (protocol v1beta)",
+    "downloads": 9005,
+    "max_version": "7.0.0+20251216",
+    "name": "google-metastore1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with mirror (protocol v1)",
+    "downloads": 71430,
+    "max_version": "7.0.0+20190424",
+    "name": "google-mirror1"
+  },
+  {
+    "description": "A complete library to interact with mirror (protocol v1)",
+    "downloads": 33496,
+    "max_version": "7.0.0+20190424",
+    "name": "google-mirror1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Machine Learning Engine (protocol v1)",
+    "downloads": 31755,
+    "max_version": "7.0.0+20250920",
+    "name": "google-ml1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Machine Learning Engine (protocol v1)",
+    "downloads": 20059,
+    "max_version": "7.0.0+20250920",
+    "name": "google-ml1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Machine Learning Engine (protocol v1beta1)",
+    "downloads": 15037,
+    "max_version": "1.0.6+20170515",
+    "name": "google-ml1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Machine Learning Engine (protocol v1beta1)",
+    "downloads": 11729,
+    "max_version": "1.0.6+20170515",
+    "name": "google-ml1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Monitoring (protocol v3)",
+    "downloads": 54570,
+    "max_version": "7.0.0+20251215",
+    "name": "google-monitoring3"
+  },
+  {
+    "description": "A complete library to interact with Monitoring (protocol v3)",
+    "downloads": 32725,
+    "max_version": "3.1.0+20220218",
+    "name": "google-monitoring3-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business (protocol v4)",
+    "downloads": 21547,
+    "max_version": "7.0.0+0",
+    "name": "google-mybusiness4"
+  },
+  {
+    "description": "A complete library to interact with My Business (protocol v4)",
+    "downloads": 12981,
+    "max_version": "7.0.0+0",
+    "name": "google-mybusiness4-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Account Management (protocol v1)",
+    "downloads": 17707,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessaccountmanagement1"
+  },
+  {
+    "description": "A complete library to interact with My Business Account Management (protocol v1)",
+    "downloads": 8973,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessaccountmanagement1-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Business Calls (protocol v1)",
+    "downloads": 12637,
+    "max_version": "7.0.0+20230124",
+    "name": "google-mybusinessbusinesscalls1"
+  },
+  {
+    "description": "A complete library to interact with My Business Business Calls (protocol v1)",
+    "downloads": 5333,
+    "max_version": "7.0.0+20230124",
+    "name": "google-mybusinessbusinesscalls1-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Business Information (protocol v1)",
+    "downloads": 12280,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessbusinessinformation1"
+  },
+  {
+    "description": "A complete library to interact with My Business Business Information (protocol v1)",
+    "downloads": 5333,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessbusinessinformation1-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Lodging (protocol v1)",
+    "downloads": 12147,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinesslodging1"
+  },
+  {
+    "description": "A complete library to interact with My Business Lodging (protocol v1)",
+    "downloads": 5320,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinesslodging1-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Notification Settings (protocol v1)",
+    "downloads": 12219,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessnotifications1"
+  },
+  {
+    "description": "A complete library to interact with My Business Notification Settings (protocol v1)",
+    "downloads": 5327,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessnotifications1-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Place Actions (protocol v1)",
+    "downloads": 12311,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessplaceactions1"
+  },
+  {
+    "description": "A complete library to interact with My Business Place Actions (protocol v1)",
+    "downloads": 5357,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessplaceactions1-cli"
+  },
+  {
+    "description": "A complete library to interact with My Business Verifications (protocol v1)",
+    "downloads": 12245,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessverifications1"
+  },
+  {
+    "description": "A complete library to interact with My Business Verifications (protocol v1)",
+    "downloads": 3987,
+    "max_version": "7.0.0+20251210",
+    "name": "google-mybusinessverifications1-cli"
+  },
+  {
+    "description": "A complete library to interact with networkconnectivity (protocol v1)",
+    "downloads": 12220,
+    "max_version": "7.0.0+20251209",
+    "name": "google-networkconnectivity1"
+  },
+  {
+    "description": "A complete library to interact with networkconnectivity (protocol v1)",
+    "downloads": 3947,
+    "max_version": "7.0.0+20251209",
+    "name": "google-networkconnectivity1-cli"
+  },
+  {
+    "description": "A complete library to interact with networkconnectivity (protocol v1alpha1)",
+    "downloads": 17470,
+    "max_version": "7.0.0+20251125",
+    "name": "google-networkconnectivity1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with networkconnectivity (protocol v1alpha1)",
+    "downloads": 9037,
+    "max_version": "7.0.0+20251125",
+    "name": "google-networkconnectivity1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with Network Management (protocol v1)",
+    "downloads": 18643,
+    "max_version": "7.0.0+20251203",
+    "name": "google-networkmanagement1"
+  },
+  {
+    "description": "A complete library to interact with Network Management (protocol v1)",
+    "downloads": 10367,
+    "max_version": "7.0.0+20251203",
+    "name": "google-networkmanagement1-cli"
+  },
+  {
+    "description": "A complete library to interact with NetworkSecurity (protocol v1)",
+    "downloads": 12231,
+    "max_version": "7.0.0+20251203",
+    "name": "google-networksecurity1"
+  },
+  {
+    "description": "A complete library to interact with NetworkSecurity (protocol v1)",
+    "downloads": 3939,
+    "max_version": "7.0.0+20251203",
+    "name": "google-networksecurity1-cli"
+  },
+  {
+    "description": "A complete library to interact with NetworkServices (protocol v1)",
+    "downloads": 12213,
+    "max_version": "7.0.0+20251203",
+    "name": "google-networkservices1"
+  },
+  {
+    "description": "A complete library to interact with NetworkServices (protocol v1)",
+    "downloads": 3915,
+    "max_version": "7.0.0+20251203",
+    "name": "google-networkservices1-cli"
+  },
+  {
+    "description": "A complete library to interact with AI Platform Notebooks (protocol v1)",
+    "downloads": 17480,
+    "max_version": "7.0.0+20251203",
+    "name": "google-notebooks1"
+  },
+  {
+    "description": "A complete library to interact with AI Platform Notebooks (protocol v1)",
+    "downloads": 8971,
+    "max_version": "7.0.0+20251203",
+    "name": "google-notebooks1-cli"
+  },
+  {
+    "description": "A complete library to interact with oauth2 (protocol v2)",
+    "downloads": 29219,
+    "max_version": "0.1.14+20160330",
+    "name": "google-oauth2_v2"
+  },
+  {
+    "description": "A complete library to interact with On-Demand Scanning (protocol v1)",
+    "downloads": 17481,
+    "max_version": "7.0.0+20251215",
+    "name": "google-ondemandscanning1"
+  },
+  {
+    "description": "A complete library to interact with On-Demand Scanning (protocol v1)",
+    "downloads": 6855,
+    "max_version": "3.1.0+20220228",
+    "name": "google-ondemandscanning1-cli"
+  },
+  {
+    "description": "A complete library to interact with OrgPolicy API (protocol v2)",
+    "downloads": 17475,
+    "max_version": "7.0.0+20251204",
+    "name": "google-orgpolicy2"
+  },
+  {
+    "description": "A complete library to interact with OrgPolicy API (protocol v2)",
+    "downloads": 9128,
+    "max_version": "7.0.0+20251204",
+    "name": "google-orgpolicy2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud OS Login (protocol v1)",
+    "downloads": 30186,
+    "max_version": "7.0.0+20251212",
+    "name": "google-oslogin1"
+  },
+  {
+    "description": "A complete library to interact with Cloud OS Login (protocol v1)",
+    "downloads": 20021,
+    "max_version": "7.0.0+20251212",
+    "name": "google-oslogin1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud OS Login (protocol v1beta)",
+    "downloads": 31853,
+    "max_version": "7.0.0+20251212",
+    "name": "google-oslogin1_beta"
+  },
+  {
+    "description": "A complete library to interact with Cloud OS Login (protocol v1beta)",
+    "downloads": 20182,
+    "max_version": "7.0.0+20251212",
+    "name": "google-oslogin1_beta-cli"
+  },
+  {
+    "description": "A complete library to interact with pagespeedonline (protocol v2)",
+    "downloads": 71174,
+    "max_version": "7.0.0+20191206",
+    "name": "google-pagespeedonline2"
+  },
+  {
+    "description": "A complete library to interact with pagespeedonline (protocol v2)",
+    "downloads": 33146,
+    "max_version": "7.0.0+20191206",
+    "name": "google-pagespeedonline2-cli"
+  },
+  {
+    "description": "A complete library to interact with pagespeedonline (protocol v4)",
+    "downloads": 27268,
+    "max_version": "7.0.0+20191206",
+    "name": "google-pagespeedonline4"
+  },
+  {
+    "description": "A complete library to interact with pagespeedonline (protocol v4)",
+    "downloads": 15920,
+    "max_version": "7.0.0+20191206",
+    "name": "google-pagespeedonline4-cli"
+  },
+  {
+    "description": "A complete library to interact with Pagespeed Insights (protocol v5)",
+    "downloads": 24230,
+    "max_version": "7.0.0+20251229",
+    "name": "google-pagespeedonline5"
+  },
+  {
+    "description": "A complete library to interact with Pagespeed Insights (protocol v5)",
+    "downloads": 15909,
+    "max_version": "7.0.0+20251229",
+    "name": "google-pagespeedonline5-cli"
+  },
+  {
+    "description": "A complete library to interact with Partners (protocol v2)",
+    "downloads": 56272,
+    "max_version": "7.0.0+20180925",
+    "name": "google-partners2"
+  },
+  {
+    "description": "A complete library to interact with Partners (protocol v2)",
+    "downloads": 33142,
+    "max_version": "7.0.0+20180925",
+    "name": "google-partners2-cli"
+  },
+  {
+    "description": "A complete library to interact with Payments Reseller Subscription (protocol v1)",
+    "downloads": 12463,
+    "max_version": "7.0.0+20251210",
+    "name": "google-paymentsresellersubscription1"
+  },
+  {
+    "description": "A complete library to interact with Payments Reseller Subscription (protocol v1)",
+    "downloads": 3980,
+    "max_version": "7.0.0+20251210",
+    "name": "google-paymentsresellersubscription1-cli"
+  },
+  {
+    "description": "A complete library to interact with People Service (protocol v1)",
+    "downloads": 57280,
+    "max_version": "7.0.0+20251221",
+    "name": "google-people1"
+  },
+  {
+    "description": "A complete library to interact with People Service (protocol v1)",
+    "downloads": 31414,
+    "max_version": "7.0.0+20251221",
+    "name": "google-people1-cli"
+  },
+  {
+    "description": "A complete library to interact with Photos Library (protocol v1)",
+    "downloads": 28190,
+    "max_version": "7.0.0+20251221",
+    "name": "google-photoslibrary1"
+  },
+  {
+    "description": "A complete library to interact with Photos Library (protocol v1)",
+    "downloads": 17463,
+    "max_version": "7.0.0+20251221",
+    "name": "google-photoslibrary1-cli"
+  },
+  {
+    "description": "A complete library to interact with Maps Places (protocol v1)",
+    "downloads": 7708,
+    "max_version": "7.0.0+20251210",
+    "name": "google-places1"
+  },
+  {
+    "description": "A complete library to interact with Maps Places (protocol v1)",
+    "downloads": 1054,
+    "max_version": "7.0.0+20251210",
+    "name": "google-places1-cli"
+  },
+  {
+    "description": "A complete library to interact with Playable Locations (protocol v3)",
+    "downloads": 18682,
+    "max_version": "7.0.0+20200707",
+    "name": "google-playablelocations3"
+  },
+  {
+    "description": "A complete library to interact with Playable Locations (protocol v3)",
+    "downloads": 10437,
+    "max_version": "7.0.0+20200707",
+    "name": "google-playablelocations3-cli"
+  },
+  {
+    "description": "A complete library to interact with playcustomapp (protocol v1)",
+    "downloads": 28703,
+    "max_version": "7.0.0+20251216",
+    "name": "google-playcustomapp1"
+  },
+  {
+    "description": "A complete library to interact with playcustomapp (protocol v1)",
+    "downloads": 16645,
+    "max_version": "7.0.0+20251216",
+    "name": "google-playcustomapp1-cli"
+  },
+  {
+    "description": "A complete library to interact with Play Integrity (protocol v1)",
+    "downloads": 18094,
+    "max_version": "7.0.0+20251216",
+    "name": "google-playintegrity1"
+  },
+  {
+    "description": "A complete library to interact with Play Integrity (protocol v1)",
+    "downloads": 3977,
+    "max_version": "7.0.0+20251216",
+    "name": "google-playintegrity1-cli"
+  },
+  {
+    "description": "A complete library to interact with Play Movies (protocol v1)",
+    "downloads": 54834,
+    "max_version": "7.0.0+20170919",
+    "name": "google-playmoviespartner1"
+  },
+  {
+    "description": "A complete library to interact with Play Movies (protocol v1)",
+    "downloads": 34343,
+    "max_version": "7.0.0+20170919",
+    "name": "google-playmoviespartner1-cli"
+  },
+  {
+    "description": "A complete library to interact with plus (protocol v1)",
+    "downloads": 72009,
+    "max_version": "7.0.0+20190616",
+    "name": "google-plus1"
+  },
+  {
+    "description": "A complete library to interact with plus (protocol v1)",
+    "downloads": 36157,
+    "max_version": "7.0.0+20190616",
+    "name": "google-plus1-cli"
+  },
+  {
+    "description": "A complete library to interact with plusDomains (protocol v1)",
+    "downloads": 76301,
+    "max_version": "7.0.0+20190616",
+    "name": "google-plusdomains1"
+  },
+  {
+    "description": "A complete library to interact with plusDomains (protocol v1)",
+    "downloads": 36345,
+    "max_version": "7.0.0+20190616",
+    "name": "google-plusdomains1-cli"
+  },
+  {
+    "description": "A complete library to interact with Policy Analyzer (protocol v1)",
+    "downloads": 12537,
+    "max_version": "7.0.0+20251207",
+    "name": "google-policyanalyzer1"
+  },
+  {
+    "description": "A complete library to interact with Policy Analyzer (protocol v1)",
+    "downloads": 5385,
+    "max_version": "7.0.0+20251207",
+    "name": "google-policyanalyzer1-cli"
+  },
+  {
+    "description": "A complete library to interact with Policy Simulator (protocol v1)",
+    "downloads": 17801,
+    "max_version": "7.0.0+20251204",
+    "name": "google-policysimulator1"
+  },
+  {
+    "description": "A complete library to interact with Policy Simulator (protocol v1)",
+    "downloads": 9070,
+    "max_version": "7.0.0+20251204",
+    "name": "google-policysimulator1-cli"
+  },
+  {
+    "description": "A complete library to interact with Policy Troubleshooter (protocol v1)",
+    "downloads": 18774,
+    "max_version": "7.0.0+20251207",
+    "name": "google-policytroubleshooter1"
+  },
+  {
+    "description": "A complete library to interact with Policy Troubleshooter (protocol v1)",
+    "downloads": 8857,
+    "max_version": "7.0.0+20251207",
+    "name": "google-policytroubleshooter1-cli"
+  },
+  {
+    "description": "A complete library to interact with prediction (protocol v1.6)",
+    "downloads": 69223,
+    "max_version": "7.0.0+20160511",
+    "name": "google-prediction1d6"
+  },
+  {
+    "description": "A complete library to interact with prediction (protocol v1.6)",
+    "downloads": 31757,
+    "max_version": "7.0.0+20160511",
+    "name": "google-prediction1d6-cli"
+  },
+  {
+    "description": "A complete library to interact with Certificate Authority Service (protocol v1)",
+    "downloads": 11920,
+    "max_version": "7.0.0+20251022",
+    "name": "google-privateca1"
+  },
+  {
+    "description": "A complete library to interact with Certificate Authority Service (protocol v1beta1)",
+    "downloads": 17350,
+    "max_version": "7.0.0+20251022",
+    "name": "google-privateca1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Certificate Authority Service (protocol v1beta1)",
+    "downloads": 9032,
+    "max_version": "7.0.0+20251022",
+    "name": "google-privateca1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with SAS Portal Testing (protocol v1alpha1)",
+    "downloads": 18599,
+    "max_version": "7.0.0+20251222",
+    "name": "google-prod_tt_sasportal1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with SAS Portal Testing (protocol v1alpha1)",
+    "downloads": 9083,
+    "max_version": "7.0.0+20251222",
+    "name": "google-prod_tt_sasportal1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with proximitybeacon (protocol v1beta1)",
+    "downloads": 55393,
+    "max_version": "7.0.0+20200127",
+    "name": "google-proximitybeacon1_beta1"
+  },
+  {
+    "description": "A complete library to interact with proximitybeacon (protocol v1beta1)",
+    "downloads": 30612,
+    "max_version": "7.0.0+20200127",
+    "name": "google-proximitybeacon1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Pubsub (protocol v1)",
+    "downloads": 696068,
+    "max_version": "7.0.0+20251212",
+    "name": "google-pubsub1"
+  },
+  {
+    "description": "A complete library to interact with Pubsub (protocol v1)",
+    "downloads": 33686,
+    "max_version": "7.0.0+20251212",
+    "name": "google-pubsub1-cli"
+  },
+  {
+    "description": "A complete library to interact with Pubsub (protocol v1beta2)",
+    "downloads": 70585,
+    "max_version": "7.0.0+20251212",
+    "name": "google-pubsub1_beta2"
+  },
+  {
+    "description": "A complete library to interact with Pubsub (protocol v1beta2)",
+    "downloads": 33803,
+    "max_version": "7.0.0+20251212",
+    "name": "google-pubsub1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with PubsubLite (protocol v1)",
+    "downloads": 17817,
+    "max_version": "7.0.0+20251212",
+    "name": "google-pubsublite1"
+  },
+  {
+    "description": "A complete library to interact with PubsubLite (protocol v1)",
+    "downloads": 7828,
+    "max_version": "7.0.0+20251212",
+    "name": "google-pubsublite1-cli"
+  },
+  {
+    "description": "A complete library to interact with QPX Express (protocol v1)",
+    "downloads": 68780,
+    "max_version": "7.0.0+20160708",
+    "name": "google-qpxexpress1"
+  },
+  {
+    "description": "A complete library to interact with QPX Express (protocol v1)",
+    "downloads": 29813,
+    "max_version": "7.0.0+20160708",
+    "name": "google-qpxexpress1-cli"
+  },
+  {
+    "description": "A complete library to interact with Real-time Bidding (protocol v1)",
+    "downloads": 18579,
+    "max_version": "7.0.0+20251211",
+    "name": "google-realtimebidding1"
+  },
+  {
+    "description": "A complete library to interact with Real-time Bidding (protocol v1)",
+    "downloads": 9039,
+    "max_version": "7.0.0+20251211",
+    "name": "google-realtimebidding1-cli"
+  },
+  {
+    "description": "A complete library to interact with Recaptcha Enterprise (protocol v1)",
+    "downloads": 16185,
+    "max_version": "7.0.0+20251210",
+    "name": "google-recaptchaenterprise1"
+  },
+  {
+    "description": "A complete library to interact with Recommendations AI (protocol v1beta1)",
+    "downloads": 17494,
+    "max_version": "7.0.0+20251204",
+    "name": "google-recommendationengine1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Recommendations AI (protocol v1beta1)",
+    "downloads": 7830,
+    "max_version": "7.0.0+20251204",
+    "name": "google-recommendationengine1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Recommender (protocol v1)",
+    "downloads": 18788,
+    "max_version": "7.0.0+20251214",
+    "name": "google-recommender1"
+  },
+  {
+    "description": "A complete library to interact with Recommender (protocol v1)",
+    "downloads": 9042,
+    "max_version": "7.0.0+20251214",
+    "name": "google-recommender1-cli"
+  },
+  {
+    "description": "A complete library to interact with Recommender (protocol v1beta1)",
+    "downloads": 17546,
+    "max_version": "7.0.0+20251214",
+    "name": "google-recommender1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Recommender (protocol v1beta1)",
+    "downloads": 7764,
+    "max_version": "7.0.0+20251214",
+    "name": "google-recommender1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Redis (protocol v1)",
+    "downloads": 25700,
+    "max_version": "7.0.0+20251104",
+    "name": "google-redis1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Redis (protocol v1)",
+    "downloads": 14864,
+    "max_version": "7.0.0+20251104",
+    "name": "google-redis1-cli"
+  },
+  {
+    "description": "A complete library to interact with Remote Build Execution (protocol v2)",
+    "downloads": 23056,
+    "max_version": "7.0.0+20210329",
+    "name": "google-remotebuildexecution2"
+  },
+  {
+    "description": "A complete library to interact with Remote Build Execution (protocol v2)",
+    "downloads": 10984,
+    "max_version": "7.0.0+20210329",
+    "name": "google-remotebuildexecution2-cli"
+  },
+  {
+    "description": "A complete library to interact with replicapool (protocol v1beta2)",
+    "downloads": 65007,
+    "max_version": "7.0.0+20160512",
+    "name": "google-replicapool1_beta2"
+  },
+  {
+    "description": "A complete library to interact with replicapool (protocol v1beta2)",
+    "downloads": 29186,
+    "max_version": "7.0.0+20160512",
+    "name": "google-replicapool1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with replicapoolupdater (protocol v1beta1)",
+    "downloads": 68438,
+    "max_version": "7.0.0+20161003",
+    "name": "google-replicapoolupdater1_beta1"
+  },
+  {
+    "description": "A complete library to interact with replicapoolupdater (protocol v1beta1)",
+    "downloads": 30725,
+    "max_version": "7.0.0+20161003",
+    "name": "google-replicapoolupdater1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with reseller (protocol v1sandbox)",
+    "downloads": 64852,
+    "max_version": "7.0.0+20160329",
+    "name": "google-reseller1_sandbox"
+  },
+  {
+    "description": "A complete library to interact with reseller (protocol v1sandbox)",
+    "downloads": 30035,
+    "max_version": "7.0.0+20160329",
+    "name": "google-reseller1_sandbox-cli"
+  },
+  {
+    "description": "A complete library to interact with Resource Settings (protocol v1)",
+    "downloads": 11824,
+    "max_version": "7.0.0+20240625",
+    "name": "google-resourcesettings1"
+  },
+  {
+    "description": "A complete library to interact with resourceviews (protocol v1beta2)",
+    "downloads": 66413,
+    "max_version": "7.0.0+20160512",
+    "name": "google-resourceviews1_beta2"
+  },
+  {
+    "description": "A complete library to interact with resourceviews (protocol v1beta2)",
+    "downloads": 30172,
+    "max_version": "7.0.0+20160512",
+    "name": "google-resourceviews1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Retail (protocol v2)",
+    "downloads": 16581,
+    "max_version": "7.0.0+20251218",
+    "name": "google-retail2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Retail (protocol v2)",
+    "downloads": 6516,
+    "max_version": "7.0.0+20251218",
+    "name": "google-retail2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Run (protocol v1)",
+    "downloads": 24251,
+    "max_version": "7.0.0+20251212",
+    "name": "google-run1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Run (protocol v1)",
+    "downloads": 14500,
+    "max_version": "7.0.0+20251212",
+    "name": "google-run1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Run (protocol v2)",
+    "downloads": 15950,
+    "max_version": "7.0.0+20251212",
+    "name": "google-run2"
+  },
+  {
+    "description": "A complete library to interact with Cloud Run (protocol v2)",
+    "downloads": 3963,
+    "max_version": "7.0.0+20251212",
+    "name": "google-run2-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud RuntimeConfig (protocol v1)",
+    "downloads": 28703,
+    "max_version": "7.0.0+20251201",
+    "name": "google-runtimeconfig1"
+  },
+  {
+    "description": "A complete library to interact with Cloud RuntimeConfig (protocol v1)",
+    "downloads": 17516,
+    "max_version": "7.0.0+20251201",
+    "name": "google-runtimeconfig1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud RuntimeConfig (protocol v1beta1)",
+    "downloads": 27313,
+    "max_version": "7.0.0+20251201",
+    "name": "google-runtimeconfig1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud RuntimeConfig (protocol v1beta1)",
+    "downloads": 16060,
+    "max_version": "7.0.0+20251201",
+    "name": "google-runtimeconfig1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Safebrowsing (protocol v4)",
+    "downloads": 48218,
+    "max_version": "7.0.0+20251214",
+    "name": "google-safebrowsing4"
+  },
+  {
+    "description": "A complete library to interact with Safebrowsing (protocol v4)",
+    "downloads": 31294,
+    "max_version": "3.1.0+20220305",
+    "name": "google-safebrowsing4-cli"
+  },
+  {
+    "description": "A complete library to interact with sasportal (protocol v1alpha1)",
+    "downloads": 18891,
+    "max_version": "7.0.0+20251221",
+    "name": "google-sasportal1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with sasportal (protocol v1alpha1)",
+    "downloads": 10269,
+    "max_version": "7.0.0+20251221",
+    "name": "google-sasportal1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with Script (protocol v1)",
+    "downloads": 3890,
+    "max_version": "7.0.0+20251130",
+    "name": "google-script1"
+  },
+  {
+    "description": "A complete library to interact with Script (protocol v1)",
+    "downloads": 28,
+    "max_version": "7.0.0+20251130",
+    "name": "google-script1-cli"
+  },
+  {
+    "description": "A complete library to interact with Search Console (protocol v1)",
+    "downloads": 36975,
+    "max_version": "7.0.0+20251221",
+    "name": "google-searchconsole1"
+  },
+  {
+    "description": "A complete library to interact with Search Console (protocol v1)",
+    "downloads": 23748,
+    "max_version": "7.0.0+20251221",
+    "name": "google-searchconsole1-cli"
+  },
+  {
+    "description": "A complete library to interact with Secret Manager (protocol v1)",
+    "downloads": 484040,
+    "max_version": "7.0.0+20251209",
+    "name": "google-secretmanager1"
+  },
+  {
+    "description": "A complete library to interact with Secret Manager (protocol v1)",
+    "downloads": 10425,
+    "max_version": "7.0.0+20251209",
+    "name": "google-secretmanager1-cli"
+  },
+  {
+    "description": "A complete library to interact with Secret Manager (protocol v1beta1)",
+    "downloads": 19334,
+    "max_version": "7.0.0+20251209",
+    "name": "google-secretmanager1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Secret Manager (protocol v1beta1)",
+    "downloads": 10381,
+    "max_version": "7.0.0+20251209",
+    "name": "google-secretmanager1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Security Command Center (protocol v1)",
+    "downloads": 24179,
+    "max_version": "7.0.0+20251205",
+    "name": "google-securitycenter1"
+  },
+  {
+    "description": "A complete library to interact with Security Command Center (protocol v1)",
+    "downloads": 13518,
+    "max_version": "3.1.0+20220224",
+    "name": "google-securitycenter1-cli"
+  },
+  {
+    "description": "A complete library to interact with Service Broker (protocol v1)",
+    "downloads": 25950,
+    "max_version": "7.0.0+20190624",
+    "name": "google-servicebroker1"
+  },
+  {
+    "description": "A complete library to interact with Service Broker (protocol v1)",
+    "downloads": 16099,
+    "max_version": "7.0.0+20190624",
+    "name": "google-servicebroker1-cli"
+  },
+  {
+    "description": "A complete library to interact with Service Control (protocol v1)",
+    "downloads": 26743,
+    "max_version": "7.0.0+20251125",
+    "name": "google-servicecontrol1"
+  },
+  {
+    "description": "A complete library to interact with Service Control (protocol v1)",
+    "downloads": 16265,
+    "max_version": "7.0.0+20251125",
+    "name": "google-servicecontrol1-cli"
+  },
+  {
+    "description": "A complete library to interact with Service Control (protocol v2)",
+    "downloads": 17429,
+    "max_version": "7.0.0+20251125",
+    "name": "google-servicecontrol2"
+  },
+  {
+    "description": "A complete library to interact with Service Control (protocol v2)",
+    "downloads": 9161,
+    "max_version": "7.0.0+20251125",
+    "name": "google-servicecontrol2-cli"
+  },
+  {
+    "description": "A complete library to interact with Service Directory (protocol v1)",
+    "downloads": 17205,
+    "max_version": "7.0.0+20251117",
+    "name": "google-servicedirectory1"
+  },
+  {
+    "description": "A complete library to interact with Service Directory (protocol v1)",
+    "downloads": 9156,
+    "max_version": "7.0.0+20251117",
+    "name": "google-servicedirectory1-cli"
+  },
+  {
+    "description": "A complete library to interact with Service Directory (protocol v1beta1)",
+    "downloads": 18908,
+    "max_version": "7.0.0+20251117",
+    "name": "google-servicedirectory1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Service Directory (protocol v1beta1)",
+    "downloads": 10471,
+    "max_version": "7.0.0+20251117",
+    "name": "google-servicedirectory1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Service Registry (protocol alpha)",
+    "downloads": 47150,
+    "max_version": "7.0.0+20160401",
+    "name": "google-serviceregistryalpha"
+  },
+  {
+    "description": "A complete library to interact with Service Registry (protocol alpha)",
+    "downloads": 31133,
+    "max_version": "7.0.0+20160401",
+    "name": "google-serviceregistryalpha-cli"
+  },
+  {
+    "description": "A complete library to interact with Sheets (protocol v4)",
+    "downloads": 1091314,
+    "max_version": "7.0.0+20251215",
+    "name": "google-sheets4"
+  },
+  {
+    "description": "A complete library to interact with Sheets (protocol v4)",
+    "downloads": 18861,
+    "max_version": "7.0.0+20251215",
+    "name": "google-sheets4-cli"
+  },
+  {
+    "description": "A complete library to interact with siteVerification (protocol v1)",
+    "downloads": 70038,
+    "max_version": "7.0.0+20191119",
+    "name": "google-siteverification1"
+  },
+  {
+    "description": "A complete library to interact with siteVerification (protocol v1)",
+    "downloads": 31852,
+    "max_version": "7.0.0+20191119",
+    "name": "google-siteverification1-cli"
+  },
+  {
+    "description": "A complete library to interact with Slides (protocol v1)",
+    "downloads": 9063,
+    "max_version": "1.0.4+20161213",
+    "name": "google-slides1"
+  },
+  {
+    "description": "A complete library to interact with Slides (protocol v1)",
+    "downloads": 8568,
+    "max_version": "1.0.4+20161213",
+    "name": "google-slides1-cli"
+  },
+  {
+    "description": "A complete library to interact with Smart Device Management (protocol v1)",
+    "downloads": 16097,
+    "max_version": "7.0.0+20251201",
+    "name": "google-smartdevicemanagement1"
+  },
+  {
+    "description": "A complete library to interact with Smart Device Management (protocol v1)",
+    "downloads": 7855,
+    "max_version": "7.0.0+20251201",
+    "name": "google-smartdevicemanagement1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Source Repositories (protocol v1)",
+    "downloads": 30593,
+    "max_version": "7.0.0+20251222",
+    "name": "google-sourcerepo1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Source Repositories (protocol v1)",
+    "downloads": 17430,
+    "max_version": "7.0.0+20251222",
+    "name": "google-sourcerepo1-cli"
+  },
+  {
+    "description": "A complete library to interact with Spanner (protocol v1)",
+    "downloads": 23508,
+    "max_version": "7.0.0+20251205",
+    "name": "google-spanner1"
+  },
+  {
+    "description": "A complete library to interact with Spanner (protocol v1)",
+    "downloads": 10220,
+    "max_version": "7.0.0+20251205",
+    "name": "google-spanner1-cli"
+  },
+  {
+    "description": "A complete library to interact with spectrum (protocol v1explorer)",
+    "downloads": 70225,
+    "max_version": "7.0.0+20170306",
+    "name": "google-spectrum1_explorer"
+  },
+  {
+    "description": "A complete library to interact with spectrum (protocol v1explorer)",
+    "downloads": 32295,
+    "max_version": "7.0.0+20170306",
+    "name": "google-spectrum1_explorer-cli"
+  },
+  {
+    "description": "A complete library to interact with Speech (protocol v1)",
+    "downloads": 29559,
+    "max_version": "7.0.0+20251201",
+    "name": "google-speech1"
+  },
+  {
+    "description": "A complete library to interact with Speech (protocol v1)",
+    "downloads": 17555,
+    "max_version": "7.0.0+20251201",
+    "name": "google-speech1-cli"
+  },
+  {
+    "description": "A complete library to interact with Speech (protocol v1beta1)",
+    "downloads": 28866,
+    "max_version": "7.0.0+20181005",
+    "name": "google-speech1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Speech (protocol v1beta1)",
+    "downloads": 18694,
+    "max_version": "7.0.0+20181005",
+    "name": "google-speech1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with SQL Admin (protocol v1beta4)",
+    "downloads": 20034,
+    "max_version": "7.0.0+20200331",
+    "name": "google-sql1_beta4"
+  },
+  {
+    "description": "A complete library to interact with SQL Admin (protocol v1beta4)",
+    "downloads": 9414,
+    "max_version": "7.0.0+20200331",
+    "name": "google-sql1_beta4-cli"
+  },
+  {
+    "description": "A complete library to interact with SQL Admin (protocol v1)",
+    "downloads": 18409,
+    "max_version": "7.0.0+20251201",
+    "name": "google-sqladmin1"
+  },
+  {
+    "description": "A complete library to interact with SQL Admin (protocol v1)",
+    "downloads": 3232,
+    "max_version": "3.1.0+20220226",
+    "name": "google-sqladmin1-cli"
+  },
+  {
+    "description": "A complete library to interact with SQL Admin (protocol v1beta4)",
+    "downloads": 72461,
+    "max_version": "7.0.0+20251201",
+    "name": "google-sqladmin1_beta4"
+  },
+  {
+    "description": "A complete library to interact with SQL Admin (protocol v1beta4)",
+    "downloads": 26926,
+    "max_version": "3.1.0+20220226",
+    "name": "google-sqladmin1_beta4-cli"
+  },
+  {
+    "description": "A complete library to interact with storage (protocol v1)",
+    "downloads": 6698541,
+    "max_version": "7.0.0+20251218",
+    "name": "google-storage1"
+  },
+  {
+    "description": "A complete library to interact with storage (protocol v1)",
+    "downloads": 29567,
+    "max_version": "7.0.0+20251218",
+    "name": "google-storage1-cli"
+  },
+  {
+    "description": "A complete library to interact with storagetransfer (protocol v1)",
+    "downloads": 53373,
+    "max_version": "7.0.0+20251128",
+    "name": "google-storagetransfer1"
+  },
+  {
+    "description": "A complete library to interact with storagetransfer (protocol v1)",
+    "downloads": 31855,
+    "max_version": "7.0.0+20251128",
+    "name": "google-storagetransfer1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Security Token (protocol v1)",
+    "downloads": 33833,
+    "max_version": "7.0.0+20251203",
+    "name": "google-sts1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Security Token (protocol v1)",
+    "downloads": 7823,
+    "max_version": "7.0.0+20251203",
+    "name": "google-sts1-cli"
+  },
+  {
+    "description": "A complete library to interact with Surveys (protocol v2)",
+    "downloads": 40178,
+    "max_version": "7.0.0+20180508",
+    "name": "google-surveys2"
+  },
+  {
+    "description": "A complete library to interact with Surveys (protocol v2)",
+    "downloads": 30131,
+    "max_version": "7.0.0+20180508",
+    "name": "google-surveys2-cli"
+  },
+  {
+    "description": "A complete library to interact with Tag Manager (protocol v1)",
+    "downloads": 66595,
+    "max_version": "7.0.0+20251210",
+    "name": "google-tagmanager1"
+  },
+  {
+    "description": "A complete library to interact with Tag Manager (protocol v1)",
+    "downloads": 30439,
+    "max_version": "7.0.0+20251210",
+    "name": "google-tagmanager1-cli"
+  },
+  {
+    "description": "A complete library to interact with Tag Manager (protocol v2)",
+    "downloads": 31678,
+    "max_version": "7.0.0+20251210",
+    "name": "google-tagmanager2"
+  },
+  {
+    "description": "A complete library to interact with Tag Manager (protocol v2)",
+    "downloads": 19025,
+    "max_version": "7.0.0+20251210",
+    "name": "google-tagmanager2-cli"
+  },
+  {
+    "description": "A complete library to interact with taskqueue (protocol v1beta2)",
+    "downloads": 67798,
+    "max_version": "7.0.0+20160428",
+    "name": "google-taskqueue1_beta2"
+  },
+  {
+    "description": "A complete library to interact with taskqueue (protocol v1beta2)",
+    "downloads": 31274,
+    "max_version": "7.0.0+20160428",
+    "name": "google-taskqueue1_beta2-cli"
+  },
+  {
+    "description": "A complete library to interact with Tasks (protocol v1)",
+    "downloads": 66260,
+    "max_version": "7.0.0+20251216",
+    "name": "google-tasks1"
+  },
+  {
+    "description": "A complete library to interact with Tasks (protocol v1)",
+    "downloads": 30970,
+    "max_version": "7.0.0+20251216",
+    "name": "google-tasks1-cli"
+  },
+  {
+    "description": "A complete library to interact with testing (protocol v1)",
+    "downloads": 34579,
+    "max_version": "7.0.0+20251217",
+    "name": "google-testing1"
+  },
+  {
+    "description": "A complete library to interact with testing (protocol v1)",
+    "downloads": 18839,
+    "max_version": "7.0.0+20251217",
+    "name": "google-testing1-cli"
+  },
+  {
+    "description": "A complete library to interact with Texttospeech (protocol v1)",
+    "downloads": 31137,
+    "max_version": "7.0.0+20251202",
+    "name": "google-texttospeech1"
+  },
+  {
+    "description": "A complete library to interact with Texttospeech (protocol v1)",
+    "downloads": 14861,
+    "max_version": "7.0.0+20251202",
+    "name": "google-texttospeech1-cli"
+  },
+  {
+    "description": "A complete library to interact with TPU (protocol v1)",
+    "downloads": 25842,
+    "max_version": "7.0.0+20251130",
+    "name": "google-tpu1"
+  },
+  {
+    "description": "A complete library to interact with TPU (protocol v1)",
+    "downloads": 16067,
+    "max_version": "7.0.0+20251130",
+    "name": "google-tpu1-cli"
+  },
+  {
+    "description": "A complete library to interact with TPU (protocol v1alpha1)",
+    "downloads": 29057,
+    "max_version": "7.0.0+20251130",
+    "name": "google-tpu1_alpha1"
+  },
+  {
+    "description": "A complete library to interact with TPU (protocol v1alpha1)",
+    "downloads": 19048,
+    "max_version": "7.0.0+20251130",
+    "name": "google-tpu1_alpha1-cli"
+  },
+  {
+    "description": "A complete library to interact with Transcoder (protocol v1)",
+    "downloads": 56058,
+    "max_version": "7.0.0+20251210",
+    "name": "google-transcoder1"
+  },
+  {
+    "description": "A complete library to interact with Transcoder (protocol v1)",
+    "downloads": 5405,
+    "max_version": "7.0.0+20251210",
+    "name": "google-transcoder1-cli"
+  },
+  {
+    "description": "A complete library to interact with Transcoder (protocol v1beta1)",
+    "downloads": 16222,
+    "max_version": "7.0.0+20210323",
+    "name": "google-transcoder1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Transcoder (protocol v1beta1)",
+    "downloads": 7945,
+    "max_version": "7.0.0+20210323",
+    "name": "google-transcoder1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Translate (protocol v2)",
+    "downloads": 70205,
+    "max_version": "7.0.0+20170525",
+    "name": "google-translate2"
+  },
+  {
+    "description": "A complete library to interact with Translate (protocol v2)",
+    "downloads": 30636,
+    "max_version": "7.0.0+20170525",
+    "name": "google-translate2-cli"
+  },
+  {
+    "description": "A complete library to interact with Translate (protocol v3)",
+    "downloads": 66437,
+    "max_version": "7.0.0+20250424",
+    "name": "google-translate3"
+  },
+  {
+    "description": "A complete library to interact with Translate (protocol v3)",
+    "downloads": 10642,
+    "max_version": "7.0.0+20250424",
+    "name": "google-translate3-cli"
+  },
+  {
+    "description": "A complete library to interact with urlshortener (protocol v1)",
+    "downloads": 65307,
+    "max_version": "7.0.0+20150519",
+    "name": "google-urlshortener1"
+  },
+  {
+    "description": "A complete library to interact with urlshortener (protocol v1)",
+    "downloads": 30076,
+    "max_version": "7.0.0+20150519",
+    "name": "google-urlshortener1-cli"
+  },
+  {
+    "description": "A complete library to interact with Vault (protocol v1)",
+    "downloads": 30509,
+    "max_version": "7.0.0+20251209",
+    "name": "google-vault1"
+  },
+  {
+    "description": "A complete library to interact with Vault (protocol v1)",
+    "downloads": 18924,
+    "max_version": "7.0.0+20251209",
+    "name": "google-vault1-cli"
+  },
+  {
+    "description": "A complete library to interact with Semantic Tile (protocol v1)",
+    "downloads": 18728,
+    "max_version": "7.0.0+20210331",
+    "name": "google-vectortile1"
+  },
+  {
+    "description": "A complete library to interact with Semantic Tile (protocol v1)",
+    "downloads": 10551,
+    "max_version": "7.0.0+20210331",
+    "name": "google-vectortile1-cli"
+  },
+  {
+    "description": "A complete library to interact with verifiedaccess (protocol v1)",
+    "downloads": 17696,
+    "max_version": "7.0.0+20251202",
+    "name": "google-verifiedaccess1"
+  },
+  {
+    "description": "A complete library to interact with verifiedaccess (protocol v1)",
+    "downloads": 9343,
+    "max_version": "7.0.0+20251202",
+    "name": "google-verifiedaccess1-cli"
+  },
+  {
+    "description": "A complete library to interact with Version History (protocol v1)",
+    "downloads": 12265,
+    "max_version": "7.0.0+20251217",
+    "name": "google-versionhistory1"
+  },
+  {
+    "description": "A complete library to interact with Version History (protocol v1)",
+    "downloads": 5407,
+    "max_version": "7.0.0+20251217",
+    "name": "google-versionhistory1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Video Intelligence (protocol v1)",
+    "downloads": 25751,
+    "max_version": "7.0.0+20250724",
+    "name": "google-videointelligence1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Video Intelligence (protocol v1)",
+    "downloads": 14909,
+    "max_version": "7.0.0+20250724",
+    "name": "google-videointelligence1-cli"
+  },
+  {
+    "description": "A complete library to interact with Cloud Video Intelligence (protocol v1beta1)",
+    "downloads": 29732,
+    "max_version": "7.0.0+20171122",
+    "name": "google-videointelligence1_beta1"
+  },
+  {
+    "description": "A complete library to interact with Cloud Video Intelligence (protocol v1beta1)",
+    "downloads": 18161,
+    "max_version": "7.0.0+20171122",
+    "name": "google-videointelligence1_beta1-cli"
+  },
+  {
+    "description": "A complete library to interact with Vision (protocol v1)",
+    "downloads": 51446,
+    "max_version": "7.0.0+20251212",
+    "name": "google-vision1"
+  },
+  {
+    "description": "A complete library to interact with Vision (protocol v1)",
+    "downloads": 16096,
+    "max_version": "7.0.0+20251212",
+    "name": "google-vision1-cli"
+  },
+  {
+    "description": "A complete library to interact with VM Migration Service (protocol v1)",
+    "downloads": 12305,
+    "max_version": "7.0.0+20251204",
+    "name": "google-vmmigration1"
+  },
+  {
+    "description": "A complete library to interact with VM Migration Service (protocol v1)",
+    "downloads": 4044,
+    "max_version": "7.0.0+20251204",
+    "name": "google-vmmigration1-cli"
+  },
+  {
+    "description": "A complete library to interact with Walletobjects (protocol v1)",
+    "downloads": 19749,
+    "max_version": "7.0.0+20251211",
+    "name": "google-walletobjects1"
+  },
+  {
+    "description": "A complete library to interact with Walletobjects (protocol v1)",
+    "downloads": 1800,
+    "max_version": "7.0.0+20251211",
+    "name": "google-walletobjects1-cli"
+  },
+  {
+    "description": "A complete library to interact with Webfonts (protocol v1)",
+    "downloads": 66607,
+    "max_version": "7.0.0+20251203",
+    "name": "google-webfonts1"
+  },
+  {
+    "description": "A complete library to interact with Webfonts (protocol v1)",
+    "downloads": 29209,
+    "max_version": "7.0.0+20251203",
+    "name": "google-webfonts1-cli"
+  },
+  {
+    "description": "A complete library to interact with webmasters (protocol v3)",
+    "downloads": 70856,
+    "max_version": "7.0.0+20190428",
+    "name": "google-webmasters3"
+  },
+  {
+    "description": "A complete library to interact with webmasters (protocol v3)",
+    "downloads": 34546,
+    "max_version": "7.0.0+20190428",
+    "name": "google-webmasters3-cli"
+  },
+  {
+    "description": "A complete library to interact with Web Risk (protocol v1)",
+    "downloads": 16157,
+    "max_version": "7.0.0+20251215",
+    "name": "google-webrisk1"
+  },
+  {
+    "description": "A complete library to interact with Web Risk (protocol v1)",
+    "downloads": 5617,
+    "max_version": "3.1.0+20220226",
+    "name": "google-webrisk1-cli"
+  },
+  {
+    "description": "A complete library to interact with Workflow Executions (protocol v1)",
+    "downloads": 90931,
+    "max_version": "7.0.0+20251202",
+    "name": "google-workflowexecutions1"
+  },
+  {
+    "description": "A complete library to interact with Workflow Executions (protocol v1)",
+    "downloads": 9280,
+    "max_version": "7.0.0+20251202",
+    "name": "google-workflowexecutions1-cli"
+  },
+  {
+    "description": "A complete library to interact with Workflows (protocol v1)",
+    "downloads": 16283,
+    "max_version": "7.0.0+20251203",
+    "name": "google-workflows1"
+  },
+  {
+    "description": "A complete library to interact with Workflows (protocol v1)",
+    "downloads": 7883,
+    "max_version": "7.0.0+20251203",
+    "name": "google-workflows1-cli"
+  },
+  {
+    "description": "A complete library to interact with YouTube (protocol v3)",
+    "downloads": 141291,
+    "max_version": "7.0.0+20251222",
+    "name": "google-youtube3"
+  },
+  {
+    "description": "A complete library to interact with YouTube (protocol v3)",
+    "downloads": 30137,
+    "max_version": "7.0.0+20251222",
+    "name": "google-youtube3-cli"
+  },
+  {
+    "description": "A complete library to interact with YouTube Analytics (protocol v1)",
+    "downloads": 55459,
+    "max_version": "1.0.8+20181010",
+    "name": "google-youtubeanalytics1"
+  },
+  {
+    "description": "A complete library to interact with YouTube Analytics (protocol v1)",
+    "downloads": 20134,
+    "max_version": "1.0.8+20181010",
+    "name": "google-youtubeanalytics1-cli"
+  },
+  {
+    "description": "A complete library to interact with YouTube Analytics (protocol v2)",
+    "downloads": 5156,
+    "max_version": "1.0.8+20181010",
+    "name": "google-youtubeanalytics2"
+  },
+  {
+    "description": "A complete library to interact with YouTube Analytics (protocol v2)",
+    "downloads": 1887,
+    "max_version": "1.0.8+20181010",
+    "name": "google-youtubeanalytics2-cli"
+  },
+  {
+    "description": "A complete library to interact with YouTube Reporting (protocol v1)",
+    "downloads": 56772,
+    "max_version": "7.0.0+20251221",
+    "name": "google-youtubereporting1"
+  },
+  {
+    "description": "A complete library to interact with YouTube Reporting (protocol v1)",
+    "downloads": 33735,
+    "max_version": "7.0.0+20251221",
+    "name": "google-youtubereporting1-cli"
+  },
+  {
+    "description": "A zero-copy json-lexer, filters and serializer.",
+    "downloads": 37358,
+    "max_version": "1.1.3",
+    "name": "json-tools"
+  },
+  {
+    "description": "Use `dua-core` instead",
+    "downloads": 11439706,
+    "max_version": "0.9.0",
+    "name": "jwalk"
+  },
+  {
+    "description": "Low-level bindings to zlib-ng (libz-ng), a high-performance zlib library.",
+    "downloads": 16828478,
+    "max_version": "1.1.29",
+    "name": "libz-ng-sys"
+  },
+  {
+    "description": "Low-level bindings to the system libz library (also known as zlib).",
+    "downloads": 225476693,
+    "max_version": "1.1.29",
+    "name": "libz-sys"
+  },
+  {
+    "description": "Open a path or URL using the program configured on the system",
+    "downloads": 50433377,
+    "max_version": "5.4.3",
+    "name": "open"
+  },
+  {
+    "description": "A dashboard for visualizing progress of asynchronous and possibly blocking tasks",
+    "downloads": 52316136,
+    "max_version": "31.0.0",
+    "name": "prodash"
+  },
+  {
+    "description": "Convert pulldown-cmark Events back to the string they were parsed from",
+    "downloads": 64642999,
+    "max_version": "22.0.1",
+    "name": "pulldown-cmark-to-cmark"
+  },
+  {
+    "description": "A pet raytracer to test overall pseudo-performance and multi-threading",
+    "downloads": 6501,
+    "max_version": "1.0.0",
+    "name": "rtrace"
+  },
+  {
+    "description": "A program to reverse input, and a library with string utilities",
+    "downloads": 2520,
+    "max_version": "0.0.0",
+    "name": "rula"
+  },
+  {
+    "description": "The 'share-secrets-safely' CLI to interact with GPG/pass-like vaults.",
+    "downloads": 2961,
+    "max_version": "0.0.0",
+    "name": "s3-cli"
+  },
+  {
+    "description": "Extraction functions used by 'share-secrets-safely' CLI. Use it to extract data from YAML files.",
+    "downloads": 2932,
+    "max_version": "0.0.0",
+    "name": "s3-extract"
+  },
+  {
+    "description": "Types used by 'share-secrets-safely' crates.",
+    "downloads": 2921,
+    "max_version": "0.0.0",
+    "name": "s3-types"
+  },
+  {
+    "description": "Vault functionality used by 'share-secrets-safely' CLI. Use it to interact with GPG based vaults.",
+    "downloads": 2894,
+    "max_version": "0.0.0",
+    "name": "s3-vault"
+  },
+  {
+    "description": "YAML support for rust-serde",
+    "downloads": 1921,
+    "max_version": "0.0.0",
+    "name": "serde_yaml_incomplete"
+  },
+  {
+    "description": "Minimal implementation of SHA1 for Rust (with fixes and Hasher trait implementation). It was further optimized to produce 280MB/s, as opposed to 180MB/s.",
+    "downloads": 2499,
+    "max_version": "0.0.0",
+    "name": "sha1-hasher-faster"
+  },
+  {
+    "description": "The 'share-secrets-safely' CLI to interact with GPG/pass-like vaults.",
+    "downloads": 27212,
+    "max_version": "4.0.11",
+    "name": "sheesy-cli"
+  },
+  {
+    "description": "Extraction functions used by 'share-secrets-safely' CLI. Use it to extract data from YAML files.",
+    "downloads": 4306,
+    "max_version": "0.0.0",
+    "name": "sheesy-extract"
+  },
+  {
+    "description": "Tooling to make using shared secrets effortless.",
+    "downloads": 22054,
+    "max_version": "4.0.11",
+    "name": "sheesy-tools"
+  },
+  {
+    "description": "Types used by 'share-secrets-safely' crates.",
+    "downloads": 4332,
+    "max_version": "0.0.0",
+    "name": "sheesy-types"
+  },
+  {
+    "description": "Vault functionality used by 'share-secrets-safely' CLI. Use it to interact with GPG based vaults.",
+    "downloads": 26459,
+    "max_version": "4.0.11",
+    "name": "sheesy-vault"
+  },
+  {
+    "description": "The library behind the `termbook-cli`.",
+    "downloads": 13066,
+    "max_version": "1.4.2",
+    "name": "termbook"
+  },
+  {
+    "description": "`termbook` is a command-line tool to build `mdbook`'s while executing `bash` codeblocks and collecting their output to become part of the `mdbook`.\n              ",
+    "downloads": 18485,
+    "max_version": "1.4.6",
+    "name": "termbook-cli"
+  },
+  {
+    "description": "derive(Error) with a twist (based on thiserror)",
+    "downloads": 1573,
+    "max_version": "0.0.48",
+    "name": "therror"
+  },
+  {
+    "description": "Implementation detail of the `therror` crate (based on thiserror)",
+    "downloads": 2001,
+    "max_version": "0.0.48",
+    "name": "therror-impl"
+  },
+  {
+    "description": "Cassandra Protocol 3 Driver using Tokio",
+    "downloads": 2298,
+    "max_version": "0.0.0",
+    "name": "tokio-cassandra"
+  },
+  {
+    "description": "A pet raytracer to test overall pseudo-performance and multi-threading",
+    "downloads": 2693,
+    "max_version": "0.0.0",
+    "name": "tracer"
+  },
+  {
+    "description": "A library for moving files and folders to the Recycle Bin",
+    "downloads": 2763028,
+    "max_version": "5.2.7",
+    "name": "trash"
+  },
+  {
+    "description": "Find the difference between arbitrary data structures",
+    "downloads": 24123028,
+    "max_version": "5.0.0",
+    "name": "treediff"
+  },
+  {
+    "description": "TUI widgets using a react-like paradigm, allowing mutable component state and render properties.",
+    "downloads": 417812,
+    "max_version": "0.24.0",
+    "name": "tui-react"
+  },
+  {
+    "description": "Command line utility that unpacks archives, a maintained version of 'unbox'.",
+    "downloads": 6783,
+    "max_version": "0.2.4",
+    "name": "unpack"
+  },
+  {
+    "description": "A utility library for testing clients using hyper",
+    "downloads": 222669,
+    "max_version": "8.0.0",
+    "name": "yup-hyper-mock"
+  },
+  {
+    "description": "An oauth2 implementation, providing the 'device', 'service account' and 'installed' authorization flows",
+    "downloads": 23901753,
+    "max_version": "12.1.2",
+    "name": "yup-oauth2"
+  }
+]

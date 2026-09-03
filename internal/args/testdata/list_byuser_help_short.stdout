@@ -1,0 +1,9 @@
+crates for the given user id
+
+Usage: crates list by-user <ID>
+
+Arguments:
+  <ID>  The numerical id of your user, e.g. 980. Currently there is no way to easily obtain it though, so you will have to debug actual crates.io calls in your browser - the /me response contains all user data. Use any string to receive *all* crates!
+
+Options:
+  -h, --help  Print help

@@ -1,0 +1,5 @@
+error: unrecognized subcommand 'bogus'
+
+Usage: crates [COMMAND]
+
+For more information, try '--help'.

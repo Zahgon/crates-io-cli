@@ -1,0 +1,5 @@
+error: unexpected argument '--bogus' found
+
+Usage: crates [COMMAND]
+
+For more information, try '--help'.

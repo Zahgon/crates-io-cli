@@ -1,0 +1,5 @@
+error: unexpected argument '2' found
+
+Usage: crates list by-user <ID>
+
+For more information, try '--help'.

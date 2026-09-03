@@ -1,0 +1,18 @@
+show all recently changed crates
+
+The output of this command is based on the state of the current crates.io repository clone. It will remember the last result, so that the next invocation might yield different (or no) changed crates at all. Please note that the first query is likely to yield more than 40000 results! The first invocation may be slow as it might have to clone the crates.io index.
+
+Usage: crates recent-changes [OPTIONS]
+
+Options:
+  -r, --repository <REPO>
+          Path to the possibly existing crates.io repository clone. If unset, it will be cloned to a temporary spot
+
+  -o, --output <OUTPUT_FORMAT>
+          The type of output to produce
+          
+          [default: human]
+          [possible values: human, json]
+
+  -h, --help
+          Print help (see a summary with '-h')
